@@ -44,10 +44,12 @@ Khi chuyển từ một lời nói trực tiếp sang gián tiếp khá đơn gi
     |    must/ have to                |    had to
     |    may                          |    might
     
-    **Biến đổi đại từ và các từ hạn định theo bảng sau:**
+    **Biến đổi đại từ và các từ hạn định theo bảng sau:** <br>
+
     ![image](./Picture/a2.PNG)
 
-    **Biến đổi trạng ngữ chỉ thời gian và nơi chốn theo bảng sau:**
+    **Biến đổi trạng ngữ chỉ thời gian và nơi chốn theo bảng sau:** <br>
+
     ![image](./Picture/a2_1.PNG)
 
 ### <a id="a3"></a> III. CÁC LOẠI CÂU TƯỜNG THUẬT
@@ -324,75 +326,143 @@ My friend asked me................................................ .............
 Bài 1:
 
 She asked me where her umbrella was.
+
 Martin asked us how we were.
+
 He asked if he had to do it.
+
 The mother asked her daughter where she had been.
+
 She asked her boyfriend which dress he liked best.
+
 She wanted to know what they were doing.
+
 He wanted to know if I was going to the cinema.
+
 The teacher wanted to know who spoke English.
+
 She asked me how I knew that.
+
 My friend asked me if Caron had talked to Kevin.
+
 He wanted to know what time it was.
+
 She asked me when we would meet again.
+
 She asked him if he was crazy.
+
 He wanted to know where they had lived.
+
 He asked her if she would be at the party.
+
 She asked me if I could meet her at the station.
+
 The teacher wanted to know who knew the answer.
+
 She wanted to know why he didn’t help her.
+
 He asked me if I had seen that car.
+
 The mother asked the twins if they had tidied up their room.
+
 The teacher told Joe to stop talking.
+
 She told him to be patient.
+
 Her father told her to go to her room.
+
 She told us to hurry up.
+
 He asked her to give him the key.
+
 She asked Sam to play it again.
+
 He asked Caron to sit down.
+
 The receptionist asked the guest to fill in the form.
+
 She told us to take off our shoes.
+
 She told him to mind his own business.
+
 She told him not to touch it.
+
 He told me not to do that again.
+
 He told her not to talk to him like that.
+
 She warned him not to repair the computer himself.
+
 She told me not to let him in.
+
 He begged her not to go out without him.
+
 She told me not to forget my bag.
+
 The chemistry teacher told his students not to eat in the class.
+
 He advised her not to give herself up.
+
 She told the boys not to hurt themselves.
 
 Bài 2:
 
 She told me to go upstairs.
+
 He told me to close the door behind me.
+
 He advised us not to be late.
+
 She told him to stop staring at her.
+
 He asked her not to be angry with him.
+
 She told me to leave her alone.
+
 She warned us not to drink and drive.
+
 She told John to stop smoking.
+
 They told her not to worry about them.
+
 He asked me to meet him at the cinema.
+
 He said that he liked that song.
+
 She asked me where my sister was.
+
 She said that she didn’t speak Italian.
+
 They asked me to say hello to Jim.
+
 He said that the film began at seven o’clock.
+
 She told the boys not to play on the grass.
+
 She asked him where he had spent his money.
+
 He said that he never made mistakes.
+
 He wanted to know if she knew Robert.
+
 The stuntman advised the audience not to try that at home.
+
 She said that she had been very tired.
+
 She told Ben to be careful.
+
 She said she would give herself a drink.
+
 He wondered why she hadn’t phoned him.
+
 He said that he could not drive them home.
+
 She asked Peter if he preferred tea or coffee.
+
 She asked me where I had spent my holidays the previous year.
+
 He advised her not to go too far.
+
 He wanted to know if we had been shopping.
+
 He asked us not to make so much noise.
