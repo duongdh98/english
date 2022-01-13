@@ -23,6 +23,14 @@
 ## [3.4 Bài tập vận dụng](#c4)
 #
 
+# [4. GERUND (DANH ĐỘNG TỪ) VÀ INFINITIVES (ĐỘNG TỪ NGUYÊN MẪU)](#d)
+## [4.1 Tổng quan về Gerund (Danh động từ) và Infinitives (Động từ nguyên mẫu)](#d1)
+## [4.2 GERUND – Danh động từ (-ING FORM)](#d2)
+## [4.3 INFINITIVES – Động từ nguyên mẫu](#d3)
+## [4.4 Khi nào dùng Gerund (Danh động từ) và khi nào dùng Infinitives (Động từ nguyên mẫu)](#d4)
+## [4.5 Bài tập về Gerund và Infinitives](#d5)
+
+#
 # <a id="a"></a> 1. CÂU TƯỜNG THUẬT (REPORTED SPEECH
 
 ## <a id="a1"></a>1.1 Khái niệm câu tường thuật là gì?:
@@ -1225,3 +1233,505 @@ Bài tập 3:
 10. If he hadn’t been too lazy, he wouldn’t have gotten fired.
 
 #
+
+# <a id="d"></a> 4. GERUND (DANH ĐỘNG TỪ) VÀ INFINITIVES (ĐỘNG TỪ NGUYÊN MẪU)
+
+## <a id="d1"></a> 4.1 Tổng quan về Gerund (Danh động từ) và Infinitives (Động từ nguyên mẫu)
+
+**Gerund** (Danh động từ) và **Infinitives** (Động từ nguyên mẫu) là hai dạng của động từ có thể được sử dụng <br> để thay thế cho danh từ trong một câu, thường để chỉ các hành động hơn là chỉ người hay đối tượng.
+
+## <a id="d2"></a> 4.2 GERUND – Danh động từ (-ING FORM)
+
+**1. Khái niệm**
+
+Gerund (danh động từ) là danh từ được hình thành bằng cách thêm đuôi ing vào động từ.
+
+Eg: Coming, building, teaching…
+
+**Phủ định của danh động từ được hình thành bằng cách thêm not vào trước V-ing.**
+
+Eg: Not making, not opening…
+
+**Cũng có thể thêm tính từ sở hữu vào trước danh động từ để nói rõ chủ thể thực hiện hành động.**
+
+Eg: My turning on the air conditioner. (Tôi đang bật điều hòa.)
+
+**2. Cách sử dụng danh động từ (Gerund)**
+
+Dùng làm chủ ngữ trong câu.
+
+Eg: Reading helps you improve your vocabulary. (Đọc sách giúp bạn cải thiện vốn từ vựng của mình.)
+
+Chú ý: 
+
+- Trường hợp chỉ có 1 danh động từ làm chủ ngữ, thì chia động từ theo danh từ số ít (dù có nhiều đối tượng).E.g: Eating bananas, apples and oranges everyday is good for you.(Ăn chuối, táo và cam hàng ngày rất tốt cho bạn.)    
+- Trường hợp có nhiều hơn 1 danh động từ làm chủ ngữ thì chia động từ theo danh từ số nhiều.
+
+**Dùng làm bổ ngữ cho động từ** <br>
+Eg: Her favorite hobby is collecting stamps. (Sở thích của cô ấy là sưu tầm tem.)
+
+**Dùng làm tân ngữ của động từ** <br>
+Eg: He loves surfing the Internet. (Anh ấy thích lướt Internet.)
+
+**Dùng sau giới từ (on, in, by, at…) và liên từ (after, before, when, while…)** <br>
+Eg: He cleaned his room before going out with his friends.
+
+Dùng sau một số động từ
+
+|    Anticipate: đoán trước    |    Appreciate: hoan nghênh. cảm kích
+| -                            | -
+|    Avoid: tránh	             |    Consider: xem xét
+|    Deny: từ chối	           |    Delay: trì hoãn
+|    Detest: ghê tởm	         |    Dislike: không thích
+|    Enjoy: thích thú	         |    Escape: trốn khỏi
+|    Suggest: đề nghị	         |    Finish: hoàn tất
+|    Forgive: tha thứ	         |    Involve: có ý định
+|    Keep: tiếp tục            |	  Miss: bỏ lỡ
+|    Postpone: trì hoãn	       |    Prevent: ngăn chặn
+|    Stop: dừng                |	
+
+E.g:
+
+- I enjoy having a day off. (Tôi thích có một ngày nghỉ.)
+- He denied committing the crime. (Anh ta phủ nhận hành vi phạm tội.)
+- We always finish eating very late. (Chúng tôi luôn ăn xong rất muộn.)
+- Most people dislike getting up early.(Hầu hết mọi người không thích dậy sớm.)
+
+Note: Sau appreciate bắt buộc phải có một tính từ sở hữu hoặc một danh động từ
+
+- I appreciate you taking the time out to see me.(Tôi rất cảm kích bạn đã dành thời gian ra ngoài để gặp tôi.)
+- I appreciate being given this opportunity.(Tôi cảm kích khi được trao cơ hội này.)
+
+Dùng sau một số cụm động từ
+
+|    z                            |    z    
+| -                               | -
+| Have a / some problem(s)        | He had some problems reading without his glasses.
+| Have a difficult time           | She had a difficult time hiking up the mountain.
+| Have a good time                | They had a good time
+| Have a hard time                | She had a hard time explaining the situation.
+| Have an easy time               | She had an easy time selling the delicious cookies.
+| Have difficulty/ trouble        | Lisa had difficulty translating the letter by herself.
+| Have fun                        | They had fun skiing.
+| Have no difficulty / problem    | They had no difficulty finding a discount flight to London.
+| Spend one’s time                | He always spends his time working out at the gym.
+| Waste one’s time                | She always wastes her time playing video games.
+| It’s no use / no good           | It’s no use persuading her.
+
+Ngoài ra, có một số danh từ cần đi kèm với 1 giới từ như to, of,… sau đó mới thêm V-ing.
+
+|    z                            |    z    
+| -                               | -
+| Fear of                         | Her fear of flying made travel difficult.
+| Knowledge / skill of            | Her skills of climbing helped her during the competition.
+| Love of                         | My love of singing developed when I was a child.
+| reaction to                     | John’s reaction to winning the prize was quite funny.
+| Reputation for                  | Her reputation for shooting photos is well known.
+| Responsibility for              | The responsibility for completing the video belongs to me.
+| There is no point in            | There is no point in having a car if you never use it.
+
+Gerund (danh động từ) khi sử dụng trong câu phủ định
+
+Phủ định của Gerund được hình thành bằng cách thêm not trước V-ing.
+
+E.g: My grandparents have retired and enjoy not working.
+
+## <a id="d3"></a> 4.3 INFINITIVES – Động từ nguyên mẫu
+
+**1. Khái niệm**
+Infinitives là hình thức động từ nguyên mẫu.
+
+Có 2 loại động từ nguyên mẫu:
+
+- Động từ nguyên mẫu có “to” (to infinitives)
+- Động từ nguyên dạng không to (bare infinitives)
+
+Để thuận tiện, người Anh ‘ngầm’ quy ước rằng khi nói ‘động từ nguyên mẫu’ (infinitives) có nghĩa là <br> ‘động từ nguyên mẫu có to’ còn khi muốn nói ‘động từ nguyên mẫu không to’ thì người ta phải nói <rb> đầy đủ ‘infinitives without to’.
+
+Eg:
+
+- Infinitive: to learn, to watch, to play…
+- Bare infinitive: learn, watch, play…
+
+Phủ định của động từ nguyên mẫu được hình thành bằng cách thêm “not” vào trước “to V” hoặc “V”.
+
+Eg:
+
+- Infinitive: not to learn, not to watch, not to play…
+- Bare infinitive: not learn, not watch, not play…
+
+**2. Cách sử dụng INFINITIVES – Động từ nguyên mẫu**
+
+Động từ nguyên mẫu có to (to + V_nguyên mẫu)
+
+Dùng làm chủ ngữ trong câu <br>
+Eg: **To learn** English well is important to your future job.
+
+
+**Dùng làm bổ ngữ cho động từ <br>**
+Eg: The most important thing for you now is **to learn** hard.
+
+**Dùng làm tân ngữ của động từ, tính từ <br>**
+Eg: I am **pleased to hear** that you have passed your exam.
+
+
+**Dùng sau hình thức bị động của động từ số 1 <br>**
+Eg: We were **made to work** overtime yesterday.
+
+**Dùng sau động từ số 1 và tân ngữ <br>**
+Eg: The doctor advised us **to take** a holiday for a rest.
+
+**Dùng sau tân ngữ là các từ để hỏi (trừ why) <br>**
+Eg: We completely didn’t know **what to do** at that time.
+
+**Dùng sau một số động từ sau**
+|    z        |    z            |    z        |    z    |
+| -           | -               | -           | -
+| Hope	      | Hy vọng	        | Seem	      | Dường như
+| Offer	      | Đề nghị	        | Decide	    | Quyết định
+| Expect	    | Mong đợi	      | Manage	    | Xoay xở, cố gắng
+| Plan	      | Lên kế hoạch	  | Agree	      | Đồng ý
+| Refuse	    | Từ chối	        | Afford	    | Đáp ứng
+| Want	      | Muốn	          | Arrange	    | Sắp xếp
+| Promise	    | Hứa	            | Appear	    | Hình như
+| Pretend	    | Giả vờ	        | Learn	      | Học
+| Fail	      | Thất bại, hỏng	| Would like	| muốn
+| Attempt	    | Cố gắng, nỗ lực	| Offer	      | Cho, tặng, đề nghị
+| Tend	      | Có khuynh hướng	| Intend	    | Định
+| Threaten	  | Đe dọa		
+
+Eg:
+
+- She agreed to speak before the game.(Cô ấy đồng ý phát biểu trước trận đấu.)
+- He appeared to lose his weight.(Anh ấy dường như giảm cân.)
+
+
+CHÚ Ý:
+
+- Cả **Gerund (Danh động từ)** và **Infinitive (Động từ nguyên mẫu)** đều có thể được dùng làm chủ ngữ, bổ ngữ và tân ngữ của động từ.
+- khi đóng vai trò làm chủ ngữ và bổ ngữ của động từ, **Gerund (Danh động từ)** thường được sử dụng phổ biến hơn (đặc biệt là trong văn nói)
+- **Infinitive (Động từ nguyên mẫu)** chỉ được sử dụng khi người nói muốn nhấn mạnh vào mục đích của hành động.
+- 90% động từ làm chủ ngữ và bổ ngữ cho động từ được chia ở dạng **Gerund (Danh động từ)**.
+
+Eg:
+
+- Learning is important. (Việc học là quan trọng)
+- To learn is important. (Việc học là quan trọng)
+- The most important thing is learning. (Điều quan trọng nhất là việc học)
+- The most important thing is to learn. (Điều quan trọng nhất là việc học)
+
+**Động từ nguyên mẫu không to**
+
+**Dùng sau các động từ khuyết thiếu (modal verbs)** <br>
+Eg: I **can** speak Japanese. (Tôi có thể nói tiếng Nhật.)
+
+Note: Động từ khuyết thiếu Ought to V
+
+Eg: We **ought to** work hard at this time of the year.
+
+(Chúng ta phải làm việc chăm chỉ vào thời điểm này trong năm.)
+
+**Dùng trong thể mệnh lệnh thức** <br>
+Eg: Look at the picture and answer the questions.
+
+(Nhìn vào bức tranh và trả lời các câu hỏi.)
+
+**Dùng trong một số cấu trúc: would rather, had better + V và have sb, let sb, make sb + V.** <br>
+Eg: They made him repeat the whole story.
+
+(Họ bắt anh ấy phải lặp lại toàn bộ câu chuyện.)
+
+NOTE:
+
+**Help có thể dùng cả động từ nguyên dạng có to và động từ nguyên dạng không to ở sau.** <br>
+Eg: They helped us (to) clean our classroom.
+
+(Họ đã giúp chúng tôi dọn dẹp lớp học.)
+
+Một số động từ đặc biệt (need, dare) có thể được dùng cả như động từ khuyết thiếu lẫn động từ thường. <br> Khi được dùng như động từ khuyết thiếu, động từ đi sau sẽ để ở nguyên mẫu không to. Khi được dùng <br> như động từ thường, động từ đi sau sẽ chia ở nguyên mẫu có to.
+
+Eg:
+
+- We needn’t book in advance. (Chúng tôi không cần đặt trước.)
+- We don’t need to book in advance. (Chúng tôi không cần đặt trước.)
+
+## <a id="d4"></a> 4.4 Khi nào dùng Gerund (Danh động từ) và khi nào dùng Infinitives (Động từ nguyên mẫu)
+
+Có một số động từ có thể theo sau bởi cả Gerunds lẫn Infinitives. Trong một số trường hợp, việc động <br> từ thứ 2 chia ở dạng V-ing hay to V không làm thay đổi hoặc chỉ thay đổi không đáng kể nghĩa của <br> động từ chính. Trong những trường hợp khác, việc dùng V-ing hay to V có thể làm thay đổi nghĩa <br> của động từ chính.
+
+**1. Không làm thay đổi hoặc thay đổi không đáng kể nghĩa của động từ chính**
+
+Các động từ start, begin, continue, love, like, prefer có thể sử dụng cả V-ing lẫn to V theo sau.
+
+Eg:
+
+- I love reading books. (Tôi thích đọc sách)
+- I love to read books. (Tôi thích đọc sách)
+
+Note: Would like/would love/would prefer + to V.
+
+**2. Làm thay đổi nghĩa của động từ chính**
+
+**Remmenber / forget**
+
+- Remember / forget + V-ing: nhớ / quên việc đã xảy ra rồi (trong quá khứ)
+- Remember / forget + to V: nhớ / quên việc chưa, sắp xảy ra (trong tương lai)
+
+Eg:
+
+- Remeber to turn off the light before leaving home.(Nhớ tắt đèn trước khi rời khỏi nhà.)
+- I remember meeting you before.(Tôi nhớ đã gặp bạn trước đây.)
+
+Stop
+
+- Stop + V-ing: dừng việc đang làm lại
+- Stop + to V: dừng lại để chuyển sang việc khác
+
+Eg:
+
+- We stopped talking when the teacher came in.(Chúng tôi ngừng nói khi giáo viên bước vào.)
+- On the way home, I stopped at the post office to buy a newspaper. (Trên đường về nhà, tôi ghé qua  <br> bưu điện để mua một tờ báo.)
+
+Try
+
+- Try + V-ing: thử làm gì
+- Try + to V: cố gắng làm gì
+
+Eg:
+
+- You can try mixing these two ingredients together and see what will happen.(Bạn có thể thử trộn hai <br> nguyên liệu này với nhau và xem điều gì sẽ xảy ra.)
+- You should try to improve your listening skill. (Bạn nên cố gắng cải thiện kỹ năng nghe của mình.)
+
+Regret
+
+- Regret + V-ing: hối tiếc rằng đã làm gì
+- Regret + to V: tiếc rằng sắp phải làm gì (thông báo tin xấu)
+
+Eg:
+
+- I regret being rude to him yesterday.(Tôi hối hận vì đã vô lễ với anh ấy ngày hôm qua.)
+- I regret to inform you that your application has been denied.(Tôi rất tiếc phải thông báo với bạn <br> rằng đơn đăng ký của bạn đã bị từ chối.)
+
+Need
+
+- Need + V-ing = need + to be P2: cần được (bị động)
+- Need + to V: cần (chủ động)
+
+Eg:
+
+- I need to wash my car. (Tôi cần rửa xe.)
+- My car is very dirty. It needs washing.(Xe của tôi rất bẩn. Nó cần được rửa sạch.)
+
+Refuse
+
+- Refuse + V-ing: phủ nhận là đã làm gì (hành động đã xảy ra rồi)
+- Refuse + to V: từ chối không muốn làm gì (hành động sẽ không xảy ra)
+
+Eg:
+
+- He refused going out with her last night.(Anh ấy đã từ chối đi chơi với cô ấy đêm qua.)
+- He refused to lend me some money.(Anh ấy từ chối cho tôi vay một số tiền.)
+
+Go on
+
+- Go on + V-ing: tiếp tục việc đang làm
+- Go on + to V: tiếp tục một việc mới sau khi hoàn thành việc đang làm
+
+Eg:
+
+- She went on watching TV. (Cô ấy tiếp tục xem TV.)
+- After finishing her BA, she went on to get a master’s degree. (Sau khi hoàn thành chương trình cử <br> nhân, cô tiếp tục lấy bằng thạc sĩ.)
+
+Mean
+
+- Mean + V-ing: có nghĩa là, có liên quan đến
+- Mean + to V: có chủ ý, có kế hoạch làm gì
+
+Eg:
+
+- Working harder means getting more money.(Làm việc chăm chỉ hơn có nghĩa là nhận được nhiều tiền hơn.)
+- He meant to move the Newcastle.(Anh ấy có ý định chuyển Newcastle.)
+
+Dùng sau các động từ chỉ tri giác và tân ngữ
+
+- Hear, sound, smell, taste, feel, watch, notice, see, listen, find .. + O + V-ing: để chỉ khoảnh khắc <br> hành động đang diễn ra.
+- Hear, sound, smell, taste, feel, watch, notice, see, listen, find .. + O + V: để chỉ sự hoàn tất của <br> hành động – nghe hoặc thấy toàn bộ sự việc diễn ra
+
+Eg:
+
+- When I entered the room, I found him reading a book. (Khi bước vào phòng, tôi thấy anh ấy đang đọc <br> sách.)
+- I saw her go with a strange man yesterday. (Hôm qua tôi thấy cô ấy đi với một người đàn ông lạ.)
+
+## <a id="d5"></a> 4.5 Bài tập về Gerund và Infinitives
+
+Bài 1: Chia động từ trong ngoặc
+1. I can’t imagine Peter _____ (go) by bike.
+
+2. He agreed _____  (buy) a new car.
+
+3. The question is easy _____  (answer).
+
+4. The man asked me how _____  (get) to the airport.
+
+5. I look forward to _____  (see) you at the weekend.
+
+6. Are you thinking of _____  (visit) London?
+
+7. We decided _____  (run) through the forest.
+
+8. The teacher expected Sarah _____  (study) hard.
+
+9. She doesn’t mind _____  (work) the night shift.
+
+10. I learned _____  (ride) the bike at the age of 5.
+
+Đáp án: 
+
+1. going
+
+2. to buy
+
+3. to answer
+
+4. to get
+
+5. seeing
+
+6. visiting
+
+7. to run
+
+8. to study
+
+9. working
+
+10. to ride
+
+Bài 2: Chia động từ ở trong ngoặc
+1. We decided _____  (buy) a new car.
+
+2. They’ve got some work _____  (do).
+
+3. Peter gave up _____  (smoke).
+
+4. He’d like _____  (fly) an aeroplane.
+
+5. I enjoy _____  (write) picture postcards.
+
+6. Do you know what _____  (do) if there’s a fire in the shop?
+
+7. Avoid _____  (make) silly mistakes.
+
+8. My parents wanted me _____  (be) home at 11 o’clock.
+
+9. I dream about _____  (build) a big house.
+
+10. I’m hoping _____  (see) Lisa.
+
+Đáp án:
+
+1. to buy
+
+2. to do
+
+3. smoking
+
+4. to fly
+
+5. writing
+
+6. to do
+
+7. making
+
+8. to be
+
+9. building
+
+10. to see
+
+Bài 3: Chia động từ ở trong ngoặc 
+1. The children prefer (watch) TV to (read) books.
+
+2. The boys like (play) games but hate (do) lessons.
+
+3. Would you like (go) now or shall we wait till the end?
+
+4. I can’t find my favorite book. You (see) it?
+
+5. We used (dream) of a television set when we (be) small.
+
+6. Would you mind (show) me how (send) an email?
+
+7. He always think about (go) swimming.
+
+8. She dislikes (do) a lot of housework.
+
+9. My children enjoy (read) books.
+
+10. She looked forward to (see) you.
+
+Đáp án:
+
+1. watching – reading
+
+2. playing – doing
+
+3. to go
+
+4. have – seen
+
+5. to dream – were
+
+6. showing – to send
+
+7. going
+
+8. doing
+
+9. reading
+
+10. seeing
+
+Bài 4: Chia động từ ở trong ngoặc
+1. They are used to (prepare) new lessons.
+
+2. By (work) day and night, he succeeded in (finish) the job in time.
+
+3. His doctor advised him (give) up (smoke).
+
+4. Please stop (talk). We will stop (eat) lunch in ten minutes.
+
+5. Stop (argue) and start (work).
+
+6. I like (think) carefully about things before (make) decision.
+
+7. Ask him (come) in. Don`t keep him (stand) at the door.
+
+8. Did you succeed in (solve) the problem?
+
+9. Don’t forget (lock) the door before (go) to bed.
+
+10. Don’t try (persuade) me. Nothing can make me (change) my mind.
+
+Đáp án: 
+
+1. preparing
+
+2. working – finishing
+
+3. to give up – smoking
+
+4. talking – to eat
+
+5. arguing – to work
+
+6. to think – making
+
+7. to come – standing
+
+8. solving
+
+9. to lock – going
+
+10. to persuade
