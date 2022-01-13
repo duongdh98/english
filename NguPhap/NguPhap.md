@@ -7,6 +7,13 @@
 ## [1.4 Câu tường thuật dạng đặc biệt: ](#a4)
 ## [1.5 Một số bài tập vận dụng về câu tường thuật kèm đáp án:](#a5)
 #
+# [2. PASSIVE VOICE (CÂU BỊ ĐỘNG) ](#b)
+## [2.1 Passive voice (câu bị động) là gì?](#b1)
+## [2.2 Chuyển đổi câu chủ động (passive voice) sang câu bị động trong thì tiếng Anh (Tense)](#b2)
+## [2.3 Các dạng trong câu bị động](#b3)
+## [2.4 Các bước chuyển đổi từ câu chủ động sang câu bị động](#b4)
+## [2.5 Bài tập về câu bị động (passive voice)](#b5)
+#
 
 # <a id="a"></a> 1. CÂU TƯỜNG THUẬT (REPORTED SPEECH
 
@@ -560,3 +567,265 @@ __________________________________________________________.
 9. I asked her what she would do if she had 25 billion dollars.
 
 10. Vinh said that He would be surprised if Mary passes the exam.
+
+#
+
+# <a id="b"></a> 2. PASSIVE VOICE (CÂU BỊ ĐỘNG) 
+
+## <a id="b1"></a> 2.1 Passive voice (câu bị động) là gì?
+
+Passive voice (câu bị động) là câu mà chủ ngữ là người hay vật chịu tác động của hành động, được sử dụng để nhấn <br> mạnh đến đối tượng chịu tác động của hành động đó. Thì của câu bị động phải tuân theo thì của câu chủ động.
+
+Câu chủ động: 
+```sh
+	Subject + Verb + Object   
+```
+
+Câu bị động:    
+```sh
+  Subject + Verb + By Object
+```
+
+Ví dụ:
+
+My mother is washing apples in the yard. (Mẹ tôi đang rửa táo ở ngoài sân)
+<br> Apples are being washed in the yard by my mother. (Táo đang được rửa ở ngoài sân bởi mẹ tôi)
+
+Lưu ý chung:
+
+Nếu S trong câu chủ động là: they, people, everyone, someone, anyone, etc => được bỏ đi trong câu bị động
+
+Ví dụ:  
+
+Someone stole my motorbike last night. (Ai đó lấy trộm xe máy của tôi đêm qua)
+
+→ My motorbike was stolen last night. (Xe máy của tôi đã bị lấy trộm đêm qua)
+
+Nếu là người hoặc vật trực tiếp gây ra hành động thì dùng “by”, nhưng gián tiếp gây ra hành động thì dùng “with”
+
+## <a id="b2"></a> 2.2 Chuyển đổi câu chủ động (passive voice) sang câu bị động trong thì tiếng Anh (Tense)
+
+Công thức chuyển câu chủ động sang câu bị động các bạn học theo bảng dưới đây nhé!
+
+|    Thì                    |    Chủ động                                |    Bị động
+| ---------                 | --------                                   | ---- 
+|    Hiện tại đơn	          |    S + V(s/es) + O	                       |    S + am/is/are + P2
+|    Hiện tại tiếp diễn	    |    S + am/is/are + V-ing + O	             |    S + am/is/are + being + P2
+|    Hiện tại hoàn thành	  |    S + have/has + P2 + O	                 |    S + have/has + been + P2
+|    Quá khứ đơn	          |    S + V(ed/Ps) + O	                       |    S + was/were + P2
+|    Quá khứ tiếp diễn	    |    S + was/were + V-ing + O	               |    S + was/were + being + P2
+|    Quá khứ hoàn thành	    |    S + had + P2 + O	                       |    S + had + been + P2
+|    Tương lai đơn	        |    S + will + V-infi + O	                 |    S + will + be + P2
+|    Tương lai hoàn thành	  |    S + will + have + P2 + O	               |    S + will + have + been + P2
+|    Tương lai gần	         |    S + am/is/are going to + V-infi + O	    |    S + am/is/are going to + be + P2
+|    Động từ khuyết thiếu	  |    S + ĐTKT + V-infi + O	                 |    S + ĐTKT + be + P2
+
+## <a id="b3"></a> 2.3 Các dạng trong câu bị động
+
+**1. Bị động với những động từ có 2 tân ngữ**
+
+Một số đông từ được theo sau nó bởi hai tân ngữ như:**give** (đưa), **lend** (cho mượn), **send** (gửi), <br> **show** (chỉ), **buy** (mua), **make** (làm), **get** (cho), … thì ta sẽ có 2 câu bị động.
+
+Ví dụ 1: <br> 
+I gave **him(O1) an apple(O2)**. <br>
+(Tôi đã cho anh ấy một quả táo) 
+
+→ An apple was given to him. (Một quả táo đã được trao cho anh ta)
+
+→ He was given an apple by me. (Anh ta đã được tôi trao cho một quả táo)
+
+Ví dụ 2: He sends **his(O1) relative(O2) a letter**.
+
+→ His relative **was sent** a letter. <br>
+(Người thân của anh ấy đã được gửi một lá thư)
+
+→ A letter **was sent** to his relative. <br>
+(Một lá thư đã được gửi cho người thân của anh ấy)
+
+**2. Thể bị động của các động từ tường thuật**
+
+Các động từ tường thuật gồm: **assume, believe, claim, consider, expect, feel, find, know, report, say, …**
+
+S: chủ ngữ; S’: Chủ ngữ bị động
+
+O: Tân ngữ; O’: Tân ngữ bị động
+
+|    Câu chủ động                |    Câu bị động                    |    Ví dụ
+| -                              | -                                 | -
+| S + V + THAT + S’ + V’ + …     | Cách 1: S + BE + V3/-ed + to V’   | People say that he is very rich.
+|                                |                                   | → He is said to bevery rich.
+|                                | Cách 2:                           |    
+|                                | It + be + V3/-ed + THAT + S’ + V’ | People say that he is very rich.
+|                                |                                   | → It’s said that he is very rich.
+
+Câu nhờ vả với các động từ **have, get, make** có thể được đổi sang câu bị động với cấu trúc
+
+**3. Câu chủ động là câu nhờ vả**
+
+|    Câu chủ động                |    Câu bị động                    |    Ví dụ
+| -                              | -                                 | - 
+| … have someone +               | …have something +                 | Thomas has his son buy a cup of coffee.
+| V (bare) something	           | V3/-ed (+ by someone)             | → Thomas **has** a cup of coffee **bought** by hisson.
+| … make someone +               | … (something) + be made + to V    | Suzy makes the hairdresser cut her hair.
+| V (bare) something             | + (by someone)                    | → Her hair is **made to cut** by the hairdresser.
+| … get + someone +              | … get + something +               | Shally gets her husband to clean the kitchen for her.
+| to V + something               | V3/-ed + (by someone)             | → Shally gets the kitchen cleaned by her husband.
+
+**4. Câu chủ động là câu hỏi**
+
+Thể bị động của câu hỏi **yes/No**
+
+|    Câu chủ động                    |    Câu bị động                            |    Ví dụ
+| -                                  | -                                         | - 
+| Do/does + S + V (bare) + O …?      | Am/ is/ are + S’ + V3/-ed + (by O)?       | Do you clean your room?
+|                                    |                                           | → Is your room cleaned(by you)?
+| Did + S + V (bare) + O…?           | Was/were + S’ + V3/-ed + by + …?          | Can you bring your notebook to my desk?
+|                                    |                                           | → Can you notebook be brought to my desk?
+| modal verbs + S + V (bare) + O + …?| modal verbs + S’ + be + V3/-ed + by + O’? | Can you move the chair?
+|                                    |                                           | → Can the chair be moved?
+| have/has/had + S + V3/-ed + O + …? | Have/ has/ had + S’ + been +              | Has she done her homework?
+|                                    | V3/-ed + by + O’?                         | → Has her homework been done(by her)?
+
+**5. Bị động với các động từ chỉ quan điểm, ý kiến**
+
+Một số động từ chỉ quan điểm ý kiến thông dụng là: 
+<br> think/say/suppose/believe/consider/report…
+<br> (nghĩ rằng/nói rằng/cho rằng/tin rằng/xem xét rằng/thông báo rằng….)
+
+Ví dụ: People think he stole his mother’s money.(Mọi người nghĩ anh ta lấy cắp tiền của mẹ anh ta.)
+
+→ It is thought that he stole his mother’s money. (Người ta cho rằng anh ta đã ăn cắp tiền của mẹ mình.)
+
+→ He is thought to have stolen his mother’s money. (Anh ta được cho là đã ăn cắp tiền của mẹ mình.)
+
+**6. Bị động với các động từ chỉ giác quan**
+
+Các động từ giác quan là các động từ chỉ nhận thức của con người như: <br>
+**see (nhìn), hear (nghe), watch (xem), look (nhìn), notice (nhận thấy), ….**
+
+**S + Vp + Sb + V ing. (nhìn/xem/nghe… ai đó đang làm gì)** <br>
+
+Ai đó chứng kiến người khác làm gì và chỉ thấy 1 phần của hành động hoặc 1 hành động đang diễn ra bị 1 hành động khác xen vào.
+
+Ví dụ:
+
+He watched them playing football. (Anh ta nhìn thấy họ đang đá bóng.) <br>
+→ They were watched playing football. (Họ được nhìn thấy đang đá bóng.)
+
+Cấu trúc :
+```sh
+  S + Vp + Sb + V. (nhìn/xem/nghe ai đó làm gì)
+```
+Ai đó chứng kiến người khác làm gì từ đầu đến cuối.
+
+Ví dụ:
+
+I heard her cry. (Tôi nghe thấy cô ấy khóc.) <br>
+→ She was heard to cry. (Cô ấy được nghe thấy là đã khóc.)
+
+7. Câu chủ động là câu mệnh lệnh
+
+Thể khẳng định: <br>
+Chủ động: V + O + … <br>
+Bị Động: Let O + be + V3/-ed <br>
+
+Ví dụ: Put your pen down → Let your pen be put down. (Bỏ cây bút xuống.)
+
+Thể phủ định: <br>
+Chủ động: Do not + V + O + … <br>
+Bị động: Let + O + NOT + be + V3/-ed <br>
+
+Ví dụ: Do not take this item. → Let this item not be taken. (Không lấy sản phẩm này.)
+
+## <a id="b4"></a> 2.4 Các bước chuyển đổi từ câu chủ động sang câu bị động
+
+**Bước 1:** Xác định tân ngữ trong câu chủ động, chuyển thành chủ ngữ câu bị động.
+
+**Bước 2:** Xác định thì (tense) trong câu chủ động rồi chuyển động từ về thể bị động như hướng dẫn ở trên.
+
+**Bước 3:** Chuyển đổi chủ ngữ trong câu chủ động thành tân ngữ thêm “by” phía trước. Những chủ ngữ không xác định chúng ta có <br> thể bỏ qua như: by them, by people….
+
+![image](./Picture/b.PNG)
+
+Ví dụ:
+
+My father waters this flower every morning. <br>
+→ This flower is watered (by my father) every morning.
+
+John invited Fiona to his birthday party last night. <br>
+→ Fiona was invented to John’s birthday party last month
+
+Her mother is preparing the dinner in the kitchen. <br>
+→ The dinner is being prepared (by her mother) in the kitchen.
+
+## <a id="b5"></a> 2.5 Bài tập về câu bị động (passive voice)
+
+Bài tập 1: Chuyển câu sau sang câu bị động
+
+1. John gets his sister to clean his shirt.
+
+2. Anne had had a friend type her composition.
+
+3. Rick will have a barber cut his hair.
+
+4. They had the police arrest the shoplifter.
+
+5. Are you going to have the shoemaker repair your shoes?
+
+6. I must have the dentist check my teeth.
+
+7. She will have Peter wash her car tomorrow.
+
+8. They have her tell the story again.
+
+Bài tập 2:  Cho dạng đúng của động từ trong ngoặc
+
+1. Toshico had her car (repair) ………….. by a mechanic.
+
+2. Ellen got Marvin (type) ………………her paper.
+
+3. We got our house (paint) ……………… last week.
+
+4. Dr Byrd is having the students (write ) ……………….   a composition.
+
+5. Mark got his transcripts (send)………………. to the university.
+
+6. Maria is having her hair (cut) ……………………. tomorrow.
+
+7. Will Mr. Brown have the porter (carry)………………………his luggage to his car?
+
+2. Đáp án:
+
+Đáp án bài tập 1:
+
+1. John gets his shirt cleaned.
+
+2. Anne has had her composition typed.
+
+3. Rick will have his hair cut.
+
+4. They had the shoplifter arrested.
+
+5. Are you going to have your shoes repaired?
+
+6. I must have my teeth checked.
+
+7. She will have her car washed tomorrow.
+
+8. They have the story told again.
+
+Đáp án bài tập 2:
+
+1. repaired
+
+2. to type
+
+3. painted
+
+4. write
+
+5. sent
+
+6. cut
+
+7. carry
