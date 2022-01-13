@@ -1,468 +1,562 @@
 # Ngữ pháp
 
-## [CÂU TRỰC TIẾP, CÂU GIÁN TIẾP (REPORTED SPEECH) TRONG TIẾNG ANH](#a)
-### [I. KHÁI NIỆM](#a1)
-### [II. CÁCH CHUYỂN CÂU TRỰC TIẾP SANG CÂU GIÁN TIẾP](#a2)
-### [III. CÁC LOẠI CÂU TƯỜNG THUẬT](#a3)
-### [IV. BÀI TẬP](#a4)
-
+# [1. CÂU TƯỜNG THUẬT (REPORTED SPEECH)](#a)
+## [1.1 Khái niệm câu tường thuật là gì?:](#a1)
+## [1.2 Các bước chuyển từ câu trực tiếp sang câu tường thuật:](#a2)
+## [1.3 Các loại câu tường thuật thông thường:](#a3)
+## [1.4 Câu tường thuật dạng đặc biệt: ](#a4)
+## [1.5 Một số bài tập vận dụng về câu tường thuật kèm đáp án:](#a5)
 #
 
-## <a id="a"></a> CÂU TRỰC TIẾP, CÂU GIÁN TIẾP (REPORTED SPEECH) TRONG TIẾNG ANH
-
-### <a id="a1"></a> I. KHÁI NIỆM
-Câu tường thuật là câu thuật lại lời nói trực tiếp.
-
-**Lời nói trực tiếp (direct speech):** là nói chính xác điều ai đó diễn đạt (còn gọi là trích dẫn). <br> Lời của người nói sẽ được đặt trong dấu ngoặc kép.
-
-Ví dụ: She said ,” The exam is difficult”. "The exam is difficult" là lời nói trực tiếp hay câu trực ti
-
-**Lời nói gián tiếp – câu tường thuật (indirect speech):** Là thuật lại lời nói của một người <br> khác dưới dạng gián tiếp, không dùng dấu ngoặc kép.
-Ví dụ: Hoa said,”I want to go home” -> Hoa said she wanted to go home là câu gián tiếp (indirect speech)
-
-### <a id="a2"></a> II. CÁCH CHUYỂN CÂU TRỰC TIẾP SANG CÂU GIÁN TIẾP
-Khi chuyển từ một lời nói trực tiếp sang gián tiếp khá đơn giản, chúng ta chỉ cần ghép nội dung <br> tường thuật ở phía sau câu nói và hạ động từ của nó xuống một cấp quá khứ, đại từ được <br> chuyển đổi cho phù hợp. Tuy nhiên, cần lưu ý một số vấn đề sau:
-
-  - Nếu động từ tường thuật (reporting verb) chia ở các thì hiện tại chúng ta giữ nguyên thì <br>(tense) của động từ chính, đại từ chỉ định và các trạng từ chỉ nơi chốn cũng như trạng từ chỉ <br>thời gian trong câu trực tiếp khi chuyển sang gián tiếp.
-  <br>**Ex :**
-    - He says: “I’m going to Ha Noi next week.”
-    - ⇒ He says he is going to Ha Noi next week.
-
-  - Nếu động từ tường thuật (reporting verb) của câu ở thì quá khứ thì phải lùi động từ chính về <br> quá khứ một bậc khi chuyển từ lời nói trực tiếp (direct speech) sang lời nói gián tiếp <br>(indirect / reported speech) theo quy tắc sau:
-  
-    **Biến đổi thì của động từ và động từ khuyết thiếu theo bảng sau:**
-    |    Câu trực tiếp                |    Câu gián tiếp            |
-    | ---------------------------     | --------------------------- |
-    |    Present simple               |    Past simple
-    |    Present continuous           |    Past continuous
-    |    Present perfect              |    Past perfect
-    |    Past simple                  |    Past perfect
-    |    Present perfect continuous   |    Past perfect continuous
-    |    Past continuous              |    Past perfect continuous
-	  |    will                         |    would
-    |    can                          |    could
-    |    must/ have to                |    had to
-    |    may                          |    might
-    
-    **Biến đổi đại từ và các từ hạn định theo bảng sau:** <br>
-
-    ![image](./Picture/a2.PNG)
-
-    **Biến đổi trạng ngữ chỉ thời gian và nơi chốn theo bảng sau:** <br>
-
-    ![image](./Picture/a2_1.PNG)
-
-### <a id="a3"></a> III. CÁC LOẠI CÂU TƯỜNG THUẬT
-
-1. Câu tường thuật ở dạng câu kể
-    ```sh
-      S + say(s)/said + (that) + S + V
-    ```
-  - says/say to + O -> tells/tell + O
-  - said to + O ->told+O
+# <a id="a"></a> 1. CÂU TƯỜNG THUẬT (REPORTED SPEECH
 
-    Eg: He said to me”I haven’t finished my work” -> He told me he hadn’t finished his work.
+## <a id="a1"></a>1.1 Khái niệm câu tường thuật là gì?:
 
-2. Câu tường thuật ở dạng câu hỏi
+Câu tường thuật (Câu gián tiếp) được định nghĩa là một loại câu cơ bản dùng để thuật lại một sự <br> việc, hay là một lời nói của ai đó. Hay nói cách khác, việc sử dụng câu tường thuật là biến <br> đổi câu nói trực tiếp sang gián tiếp. Loại câu tường thuật này bạn sẽ thường xuyên gặp trong <br> cuộc sống hàng ngày hoặc các bài phát biểu.
 
-    a.Yes/No questions:
-    ```sh
-      S+asked/wanted to know/wondered+if/wether+S+V
-    ```
-    
-    Ex: ”Are you angry?”he asked -> He asked if/whether I was angry.
+**E.g: Nam said he wanted to live in Ha Noi.**
 
-    b.Wh-questions:
-    ```sh
-      S + asked(+O)/wanted to know/wondered + Wh-words + S + V.
-    ```
-    * says/say to + O  -> asks/ask + O
-    
-    * said to + O  -> asked + O.
-    
-    Ex: ”What are you talking about?”said the teacher. -> The teacher asked us what we were talking about.
-    
-3. Câu tường thuật ở dạng câu mệnh lệnh
+## <a id="a2"></a></a>1.2 Các bước chuyển từ câu trực tiếp sang câu tường thuật:
 
-    ***Khẳng định: S + told + O + to-infinitive.** <br>
-    Ex: ”Please wait for me here, Mary. <br>
-    ”Tom said -> Tom told Mary to wait for him there. <br>
-    ***Phủ định: : S + told + O + not to-infinitive.**
-    Ex: ”Don’t talk in class”,the teacher said to us. –>The teacher told us not to talk in class.
-    
-    Một số dạng câu tường thuật đặc biệt <br>
-    -> **SHALL/ WOULD dùng để diễn tả đề nghị, lời mời:** <br>
-    Tom asked: 'Shall I bring you some tea?' <br>
-     -> Tom offered to bring me some tea. <br>
-    Tom asked: 'Shall we meet at the theatre?' <br>
-     -> Tom suggested meeting at the theatre. <br>
-    
-    -> **WILL/ WOULD/ CAN/ COULD dùng để diễn tả sự yêu cầu:** <br>
+**Bước 1: Chọn động từ tường thuật:**
 
-    Tom asked: 'Will you help me, please?' <br>
-     -> Tom asked me to help him. <br>
-    Jane asked Tom: 'Can you open the door for me, Tom?' <br>
-     -> Jane asked Tom to open the door for her. <br>
+Có rất nhiều động từ tường thuật trong tiếng Anh, như là:
 
-### <a id="a4"></a> IV. BÀI TẬP
+|    Từ vựng    |    Tiếng Việt
+| ------------- | --------------
+|    Told, ask	|    Nói
+|    Asked	    |    Yêu cầu
+|    Denied	    |    Phủ nhận
+|    Promised	  |    Hứa
+|    Suggest	  |    Đề nghị, gợi ý
 
-**Bài 1: Hoàn thành các câu sau.**
+Tuy vậy, chúng ta thường chỉ dùng told, said và asked, lần lượt là động từ ở dạng quá khứ của <br> tell, say, ask. Ở đây WISE ENGLISH lưu ý các bạn cần phân biệt được cách dùng của told và said.
 
-1. "Where is my umbrella?" she asked. <br>
-She asked............................................. ......................
+**E.g: Manh told Quynh that….** (Mạnh nói với Quỳnh rằng…) <br>
+**→ Manh said that….** (Mạnh nói rằng…)
 
-2. "How are you?" Martin asked us. <br>
-Martin asked us................................................ ...................
+Nhìn vào ví dụ trên, ta thấy rằng, khi dùng told, bắt buộc phải tường thuật lại rằng Mạnh đang nói <br> với một đối tượng khác là Quỳnh. Còn động từ said được dùng khi chúng ta không muốn nhắc đến <br> đối tượng Quỳnh trong câu tường thuật. Ngoài ra, chúng ta có thể lược bỏ that trong câu tường <br> thuật mà không làm giảm ý nghĩa của câu.
 
-3. He asked, "Do I have to do it?" <br>
-He asked............................................. ......................
+**Bước 2: Đổi thì cho động từ:**
+Khi chuyển từ câu trực tiếp sang câu tường thuật, chúng ta cần lùi thì cho động từ. Quy tắc lùi thì như sau:
 
-4. "Where have you been?" the mother asked her daughter. <br>
-The mother asked her daughter.......................................... .........................
+|    Câu trực tiếp                    |    Câu gián tiếp
+| ------------------------------------| ------------------
+| Thì hiện tại đơn: S+V( s/es)	      | Thì quá khứ đơn: S+V(ed)
+| Thì hiện tại tiếp diễn :            | Thì quá khứ tiếp diễn: 
+| S+ am/is/are+ V-ing	                | S+ was/were + V-ing
+| Thì hiện tại hoàn thành:            | Thì quá khứ hoàn thành: 
+| S+have/has + PII	                  | S+had+ PII
+| Thì hiện tại hoàn thành tiếp diễn:  | Thì quá khứ hoàn thành tiếp diễn: 
+| S+ have/has + been + V-ing	        | S + had + been+ V-ing
+| Thì quá khứ đơn: S+V(ed)	          | Thì quá khứ hoàn thành: S+had+PII
+| Thì quá khứ tiếp diễn:              | Thì quá khứ hoàn thành tiếp diễn:
+| S+was/were/was + V-ing	            | S+had+been+V-ing
 
-5. "Which dress do you like best?" she asked her boyfriend. <br>
-She asked her boyfriend......................................... ..........................
+**Một số lưu ý**
 
-6. "What are they doing?" she asked. <br>
-She wanted to know.............................................. .....................
+Lưu ý 1: 
 
-7. "Are you going to the cinema?" he asked me. <br>
-He wanted to know.............................................. .....................
+Trong một số trường hợp, phải giữ nguyên thì của động từ bởi vì không thể lùi thì được nữa( trường <br> hợp động từ ở câu trực tiếp đang ở thì quá khứ hoàn thành tiếp diễn), hoặc khi nói lại chân <br> lý hay là sự thật hiển nhiên.
 
-8. The teacher asked, "Who speaks English?" <br>
-The teacher wanted to know.............................................. .....................
+E.g: Khanh said: “The sun rises in the East”
 
-9. "How do you know that?" she asked me. <br>
-She asked me................................................ ...................
+→ Khanh told me that the sun rises in the East.
 
-10. "Has Caron talked to Kevin?" my friend asked me. <br>
-My friend asked me................................................ ...................
+Lưu ý 2: 
 
-11. "What's the time?" he asked.
-<br> → He wanted to know .................................................. .
+Những động từ khiếm khuyết sau đây khi chuyển sang câu tường thuật thì không có sự thay đổi:
 
-12. "When will we meet again?" she asked me.
-<br> → She asked me .................................................. .
+|    Từ vựng    |    Tiếng Việt
+| ------------- | ---------
+| Would	        | Sẽ
+| Could	        | Có thể
+| Might	        | Có lẽ
+| Should	      | Nên
+| Ought to	    | Phải
 
-13. "Are you crazy?" she asked him.
-<br> → She asked him .................................................. .
+**Bước 3: Đổi lại các đại từ và tính từ sở hữu:**
 
-14. "Where did they live?" he asked.
-<br> → He wanted to know .................................................. .
+Khi chuyển từ câu trực tiếp sang câu tường thuật chúng ta cần thay đổi các đại từ và tính từ sở <br> hữu theo quy tắc như sau:
 
-15. "Will you be at the party?" he asked her.
-<br> → He asked her .................................................. .
 
-16. "Can you meet me at the station?" she asked me.
-<br> → She asked me .................................................. .
+|    Phân Loại câu    |    Trong câu trực tiếp    |    Trong câu tường thuật
+| ------------------- | ------------------------- | --------------------------
+|    Tân ngữ	        |    Me	                    |    Him, her
+|                     |    Us    	                |    Them
+|                     |    You	                  |    Me, us
+|    Tính từ sở hữu	  |    My	                    |    His, Her
+|                     |    Our	                  |    Their
+|                     |    Your	                  |    Mine, Our
+|    Đại từ sở hữu	  |    Mine	                  |    His, her
+|                     |    Ours	                  |    Theirs
+|                     |    Yours	                |    Mine, Ours
+|    Đại từ nhân xưng |	   I	                    |    He, She
+|                     |    We	                    |    They
+|                     |    You	                  |    I, We
 
-17. "Who knows the answer?" the teacher asked.
-<br> → The teacher wanted to know .................................................. .
+E.g: Minh told Vuong: “ I’m busy today, so i can’t play football with you”
 
-18. "Why don't you help me?" she asked him.
-<br> → She wanted to know .................................................. .
+→ Minh told Vuong that he was busy, so he couldn’t play football with him.
 
-19. "Did you see that car?" he asked me.
-<br> → He asked me .................................................. .
+Ở Ví dụ trên, ta thấy rằng, trong câu trực tiếp, Minh nói với Vuong rằng “Hôm nay mình bận, mình <br> không thể đi đá bóng cùng cậu được”. Mình ở đây chỉ Minh, cậu ở đây chỉ Vuong. Cho nên khi <br> chuyển về câu tường thuật “mình” chuyển thành đại từ chỉ Minh là he, “cậu” chuyển thành đại <br> từ chỉ Vuong là him.
 
-20. "Have you tidied up your room?" the mother asked the twins.
-<br> → The mother asked the twins .................................................. 
+**Bước 4: Đổi các từ chỉ thời gian, nơi chốn:**
 
-21. "Stop talking, Joe," the teacher said.
-<br> → The teacher told Joe .................................................. .
+Khi tường thuật lại lời nói của một ai đó, chúng ta đã không còn ở thời gian, địa điểm đó nữa. Cho <br> nên khi chuyển từ câu trực tiếp sang câu tường thuật, các bạn cần thay đổi các từ chỉ địa <br> điểm, thời gian.
 
-22. "Be patient," she said to him.
-<br> → She told him .................................................. .
+WISE ENGLISH xin gửi đến các bạn cách chuyển các trạng từ chỉ thời gian, địa điểm cụ thể như sau:
 
-23. "Go to your room," her father said to her.
-<br> → Her father told her .................................................. .
+**Cách chuyển trạng từ chỉ địa điểm (nơi chốn):**
 
-24. "Hurry up," she said to us.
-<br> → She told us .................................................. .
 
-25. "Give me the key," he told her.
-<br> → He asked her .................................................. .
+|    Câu trực tiếp    |    Câu gián tiếp
+|    This	            |    That
+|    These	          |    Those
+|    Here	            |    There
 
-26. "Play it again, Sam," she said.
-<br> → She asked Sam .................................................. .
+**Cách chuyển trạng từ chỉ thời gian:**
 
-27. "Sit down, Caron" he said.
-<br> → He asked Caron .................................................. .
 
-28. "Fill in the form, Sir," the receptionist said.
-<br> → The receptionist asked the guest .................................................. .
+|    Câu trực tiếp                |    Câu gián tiếp
+| -----------------------         | ------------
+|    Now	                        |    Then
+|    Today	                      |    That day
+|    Yesterday	                  |    The day before/ The previous day
+|    The day before yesterday	    |    Two days before
+|    Tomorrow	                    |    The day after/ The next day
+|    Ago	                        |    Before
+|    This Week	                  |    That Week
+|    Last Week	                  |    The Week before/The previous Week
+|    Last night	                  |    The night before
+|    Next week	                  |    The week after/ The following week
 
-29. "Take off your shoes," she told us.
-<br> → She told us .................................................. .
+## <a id="a3"></a> 1.3 Các loại câu tường thuật thông thường:
 
-30. "Mind your own business," she told him.
+**1. Câu tường thuật thông thường:**
 
-<br> → She told him .................................................. .
+Cấu trúc: 
+```sh
+  S+ say/said + (that)+S+V
 
-31. "Don't touch it," she said to him.
-<br> → She told him .................................................. .
+  says/ say to + O → Tells/tell+O
 
-32. "Don't do that again," he said to me.
-<br> → He told me .................................................. .
+  Said to + O → Told + O
+```
 
-33. "Don't talk to me like that," he said.
-<br> → He told her .................................................. .
+E.g: Ngoc said to Lan “ I haven’t finished my homework”.
 
-34. "Don't repair the computer yourself," she warned him.
-<br> → She warned him .................................................. .
+→ Ngoc told Lan She hadn’t finished her homework.
 
-35. "Don't let him in," she said.
-<br> → She told me .................................................. .
+**2. Câu tường thuật cho câu hỏi:**
 
-36. "Don't go out without me," he begged her.
-<br> → He begged her .................................................. .
+**Câu hỏi Yes/No (Yes/No question):**
 
-37. "Don't forget your bag," she told me.
-<br> → She told me .................................................. .
+Cấu trúc: 
+```sh
+  S + Asked (+O) /Wondered/ Wanted/ Wanted to know  +  If/Whether + S+ V
+```
 
-38. "Don't eat in the lab," the chemistry teacher said.
-<br> → The chemistry teacher told his students .................................................. .
+E.g: “Are you fine?” Vang said.
 
-39. "Don't give yourself up," he advised her.
-<br> → He advised her .................................................. .
+→  Vang asked if/whether I was fine.
 
-40. "Don't hurt yourselves, boys," she said.
-<br> → She told the boys .................................................. .
+Chú ý: 
 
-**Bài 2: Bài tập câu tường thuật pha trộn negative và positive**
+Khi tường thuật câu hỏi Yes/No các bạn phải chuyển từ câu hỏi trực tiếp sang dạng khẳng định, sau <br> đó thực hiện thay đổi thì, các trạng từ chỉ thời gian, nơi chốn, chủ ngữ, tân ngữ, đại từ sở <br> hữu, đại từ chỉ định sao cho hợp lý.
 
-1. She said, "Go upstairs."
-<br> → She told me .................................................. .
+```sh
+  Said to + O → Asked + O
 
-2. "Close the door behind you," he told me.
-<br> → He told me .................................................. .
+  Says/ say to + O → Asks/ Ask +O
+```
 
-3. "Don't be late," he advised us.
-<br> → He advised us .................................................. .
+E.g: Ngan said to me: “ Have you been to Sai Gon?”
 
-4. "Stop staring at me," she said.
-<br> → She told him .................................................. .
+→ Ngan asked me if/whether I had been to Sai Gon.
 
-5. "Don't be angry with me," he said.
-<br> → He asked her .................................................. .
+**Câu hỏi có từ để hỏi (Wh- question):**
 
-6. "Leave me alone," she said.
-<br> → She told me .................................................. .
+Cấu trúc: 
+```sh
+  S +   Asked (+O)+ Wondered +Wanted to know + Wh-Words + S+ V
+```
 
-7. "Don't drink and drive," she warned us.
-<br> → She warned us .................................................. .
+E.g: Lan asked me “ where are you going on vacation.
 
-8. "John, stop smoking," she said.
-<br> → She told John .................................................. .
+→ Lan asked me where I was going on vacation.
 
-9. "Don't worry about us," they said.
-<br> → They told her .................................................. .
+```sh
+  Said to + O → Asked + O
 
-10. "Meet me at the cinema." he said.
-<br> → He asked me .................................................. .
+  Says/ say to + O → Asks/ Ask +O
+```
 
-11. He said, "I like this song."
-<br> → He said .................................................. .
+E.g:
 
-12. "Where is your sister?" she asked me.
-<br> → She asked me .................................................. .
+Phong said to me “ Who are you reading to?”
 
-13. "I don't speak Italian," she said.
-<br> → She said .................................................. .
+→ Phong asked me Who I was reading to.
 
-14. "Say hello to Jim," they said.
-<br> → They asked me .................................................. .
+**3. Câu tường thuật dạng mệnh lệnh:**
 
-15. "The film began at seven o'clock," he said.
-<br> → He said that .................................................. .
+**Tường thuật dạng câu mệnh lệnh khẳng định:**
 
-16. "Don't play on the grass, boys," she said.
-<br> → She told .................................................. .
+Cấu trúc:
+```sh
+  S + told + O + to- infinitive
+```
 
-17. "Where have you spent your money?" she asked him.
-<br> → She asked him .................................................. .
+E.g: “Please wait for me here, Lan”. Diep said.
 
-18. "I never make mistakes," he said.
-<br> → He said .................................................. .
+→ Diep told Lan to wait for him there.
 
-19. "Does she know Robert?" he wanted to know.
-<br> → He wanted .................................................. .
+**Tường thuật dạng câu mệnh lệnh phủ định:**
 
-20. "Don't try this at home," the stuntman told the audience.
-<br> → The stuntman advised .................................................. .
+Cấu trúc:
+```sh
+  S + told + O + not to-infinitive
+```
 
-21. "I was very tired," she said.
-<br> → She said .................................................. .
+E.g: “Don’t touch me!” Lan said.
 
-22. "Be careful, Ben," she said.
-<br> → She told .................................................. .
+→ Lan told Diep not to touch her.
 
-23. "I will get myself a drink," she says.
-<br> → She said .................................................. .
+Một số động từ thường gặp trong câu tường thuật mệnh lệnh:
 
-24. "Why haven't you phoned me?" he asked me.
-<br> → He wondered .................................................. .
 
-25. "I cannot drive them home," he said.
-<br> → He said .................................................. .
+|    Từ vựng    |    Tiếng Việt
+| -             | -
+|    Tell	      |    Nói
+|    Asked	    |    Yêu cầu
+|    Order	    |    Ra lệnh
+|    Advise	    |    Khuyên
+|    Warn	      |    Cảnh báo
+|    Beg	      |    Yêu cầu
+|    Remind	    |    Nhắc nhở
 
-26. "Peter, do you prefer tea or coffee?" she says.
-<br> → She asked .................................................. .
+**Tường thuật dạng câu điều kiện:**
 
-27. "Where did you spend your holidays last year?" she asked me.
-<br> → She asked .................................................. .
+Với những loại câu điều kiện trong tiếng Anh, chúng ta sẽ có 2 dạng câu có thể áp dụng câu tường thuật như sau:
 
-28. He said, "Don't go too far."
-<br> → He advised her .................................................. .
+- Đối với câu điều kiện loại một:
+	
+	```sh
+		S said/told (that) If + S + V_ed, S + would + V
+	```
 
-29. "Have you been shopping?" he asked us.
-<br> → He wanted .................................................. .
+	**E.g.1: She said that if she had money she would buy that dress.** <br>
+	(Cô ấy nói rằng nếu cô ấy có tiền thì cô ấy sẽ mua chiếc váy đó.)
 
-30. "Don't make so much noise," he says.
-<br> → He asked .................................................. .
+	**E.g.2: He said that if it was sunny he would go fishing.**<br>
+	(Anh ấy nói rằng nếu trời nắng anh ấy sẽ đi câu cá.)
 
-ĐÁP ÁN
+- Đối với câu điều kiện loại hai và ba:
 
-Bài 1:
+	Với dạng câu này khi chuyển sang câu tường thuật thì chúng ta cũng thực hiện lần lượt các bước <br> tuy nhiên sẽ không cần phải lùi thì. 
 
-She asked me where her umbrella was.
+	```sh
+	  S said/told (that) If + S + V-ed, S + would + V
 
-Martin asked us how we were.
+		S said/told (that) If + S + had + V-PII, S + would + have + V-PII
+  ```
 
-He asked if he had to do it.
+	**E.g.1: She said if she had known you were coming, she would have bought more cakes.** <br>
+	(Cô ấy nói nếu cô ấy biết bạn đến thì cô ấy đã mua nhiều bánh hơn.)
+	
+	**E.g.2: He said if he had superpowers he would go back to the past.**<br>
+	(Anh ấy nói nếu anh ấy có siêu năng lực anh ấy sẽ quay trở về quá khứ.)
 
-The mother asked her daughter where she had been.
+## <a id="a4"></a> 1.4 Câu tường thuật dạng đặc biệt:
 
-She asked her boyfriend which dress he liked best.
+**Công thức các dạng đặc biệt chi tiết:**
+```sh
+  S + promised + to V
+```
 
-She wanted to know what they were doing.
+**E.g.1: She promised to pay back the money she borrowed.** <br>
+(Cô ấy hứa sẽ trả lại số tiền mà cô ấy đã mượn.)
 
-He wanted to know if I was going to the cinema.
+**.g.2: He promised to quit smoking.** <br>
+(Anh ấy hứa sẽ bỏ thuốc lá)
 
-The teacher wanted to know who spoke English.
+```sh
+  S + agree + to V
+```
 
-She asked me how I knew that.
+**E.g.1: She agrees to leave the house the next day** <br>
+(Cô ấy đồng ý rời khỏi ngôi nhà vào ngày hôm sau.)
 
-My friend asked me if Caron had talked to Kevin.
+**E.g.2: She agrees to go to the birthday party.** <br>
+(Cô ấy đồng ý đến dự buổi tiệc sinh nhật.)
 
-He wanted to know what time it was.
+```sh
+  S + accuse + sb + of + Ving
+```
 
-She asked me when we would meet again.
+**E.g.1: They accused him of beating people and causing injuries.** <br>
+(Họ buộc tội anh ta đánh người và gây thương tích.)
 
-She asked him if he was crazy.
+**E.g.2: He accused her of stealing.** <br>
+(Anh ta buộc tội cô ấy ăn cắp.)
 
-He wanted to know where they had lived.
 
-He asked her if she would be at the party.
 
-She asked me if I could meet her at the station.
+## <a id="a4"></a> 1.5 Một số bài tập vận dụng về câu tường thuật kèm đáp án:
 
-The teacher wanted to know who knew the answer.
+Bài tập 1: viết lại các câu sau ở dạng câu tường thuật:
 
-She wanted to know why he didn’t help her.
+1. “I’ll phone you tomorrow.” she told Bean.
 
-He asked me if I had seen that car.
+She told Bean that…. …………………………………………………….
 
-The mother asked the twins if they had tidied up their room.
+2. “Can I sit beside you, LiLy?” Jack asked.
 
-The teacher told Joe to stop talking.
+Jack asked Lily…. ……………………………………………………..
 
-She told him to be patient.
+3. “I want a book for my birthday.” Binh said.
 
-Her father told her to go to her room.
+Binh said that…. ………………………………………………………….
 
-She told us to hurry up.
+4. “Are you going by train?” Chi asked me.
 
-He asked her to give him the key.
+Chi wanted to know…. …………………………………………..
 
-She asked Sam to play it again.
+5. “Will you come to my  birthday party?” He said to me.
 
-He asked Caron to sit down.
+He invited me…. ……………………………………………………
 
-The receptionist asked the guest to fill in the form.
+6. “What do you want for lunch, Micheal?” Bill asked.
 
-She told us to take off our shoes.
+Bill asked……………………………………………………………..
 
-She told him to mind his own business.
+7. “Can I borrow your typewriter, Huong?” asked Long.
 
-She told him not to touch it.
+Long asked if ……………………………………………………………..
 
-He told me not to do that again.
+8. “You stole my best cassette, Binh!” said Le.
 
-He told her not to talk to him like that.
+Le accused……………………………………………………………………………
 
-She warned him not to repair the computer himself.
+9. “ You damaged my bicycle, Law!” said Robin.
 
-She told me not to let him in.
+Robin accused…………………………………………………………………………..
 
-He begged her not to go out without him.
+10. “You should do more exercise, Mr. Kane.” the doctor said.
 
-She told me not to forget my bag.
+The doctor advised……………………………………………………………………..
 
-The chemistry teacher told his students not to eat in the class.
+Bài tập 2: Viết lại các câu sau:
 
-He advised her not to give herself up.
+1. “Where is my umbrella?” Huong asked.
 
-She told the boys not to hurt themselves.
+Huong asked……………………………………………………….
 
-Bài 2:
+2. “How are you?” Lee asked Jack.
 
-She told me to go upstairs.
+Martin asked Jack…………………………………………………
 
-He told me to close the door behind me.
+3. Vinh asked, “Do I have to do it?”
 
-He advised us not to be late.
+Vinh asked…………………………………………………………..
 
-She told him to stop staring at her.
+4. “Where have you been?” the father asked her son.
 
-He asked her not to be angry with him.
+The father asked his son…………………………………………
 
-She told me to leave her alone.
+5. “Which dress do you like best?” Lien asked her boyfriend.
 
-She warned us not to drink and drive.
+She asked her boyfriend…………………………………………..
 
-She told John to stop smoking.
+6. “What are they doing?” Tran asked.
 
-They told her not to worry about them.
+Tran wanted to know………………………………………………….
 
-He asked me to meet him at the cinema.
+7. “Are you going to the cinema?” Tram asked me.
 
-He said that he liked that song.
+Tram wanted to know……………………………………………………
 
-She asked me where my sister was.
+8. The teacher asked, “Who speaks Japanese?”
 
-She said that she didn’t speak Italian.
+The teacher wanted to know…………………………………………
 
-They asked me to say hello to Jim.
+9. “How do you know that?” Tinh asked me.
 
-He said that the film began at seven o’clock.
+Tinh asked me…………………………………………………………..
 
-She told the boys not to play on the grass.
+10. “Has Caron talked to Kevin?” Mr. Hoa asked me.
 
-She asked him where he had spent his money.
+Mr. Hoa asked me………………………………………… ……………….
 
-He said that he never made mistakes.
+Bài tập 3: Chuyển từ câu trực tiếp sang câu tường thuật:
 
-He wanted to know if she knew Robert.
+1. “Stop talking, Jill!” the teacher said.
 
-The stuntman advised the audience not to try that at home.
+→ The teacher told Jill …………………………………………..
 
-She said that she had been very tired.
+2. “Be patient!” Xuan said to Minh.
 
-She told Ben to be careful.
+→ Xuan told Minh …………………………………………..
 
-She said she would give herself a drink.
+3. “Get out of here!” Cam said to him.
 
-He wondered why she hadn’t phoned him.
+→ His mother told him …………………………………………..
 
-He said that he could not drive them home.
+4. “Hurry up!” Quoc said to us.
 
-She asked Peter if he preferred tea or coffee.
+→ Quoc told us ……………………………………………….
 
-She asked me where I had spent my holidays the previous year.
+5. “Give me the key!” Linh told Quoc.
 
-He advised her not to go too far.
+→ Linh asked Quoc ……………………………………………….
 
-He wanted to know if we had been shopping.
+6. “Play it again, Cole!” he said.
 
-He asked us not to make so much noise.
+→ He asked Cole ………………………………………………..
+
+7. “Stand up, Bui!” she said.
+
+→ she asked Bui …………………………………………………..
+
+8. “Fill in the form, Mr.Jack.” the receptionist said.
+
+→ The receptionist asked Jack………………………………………….
+
+9. “Take off your shoes!” Ly told Binh.
+
+→ Ly told Binh ………………………………………………………..
+
+10. “Mind your own business,” Loc told Xuan.
+
+→ Loc told Xuan ……………………………………………….
+
+Bài tập 4: Chuyển từ câu trực tiếp sang câu tường thuật:
+
+1. “Do you enjoy listening to music?” Xuan asked Loc.
+
+________________________________________________________.
+
+2. Lam said to me “Can you speak French?”
+
+__________________________________________________________.
+
+3. “I don’t like this blue cap,” Tuyet said.
+
+__________________________________________________________.
+
+4. Bien said to me “I haven’t finished my housework”.
+
+__________________________________________________________.
+
+5. “I must go home for the dinner”, Tim said.
+
+__________________________________________________________.
+
+6. “I have just received a gift from my uncle.” My girlfriend said.
+
+__________________________________________________________.
+
+7. “Do your sister go to the same school with you?” Le asked Dinh.
+
+__________________________________________________________.
+
+8. “If the weather is fine, I go on vacation to Hue,” Jayce said.
+
+_________________________________________________________.
+
+9. “What would you do if you had 25 billion dollars?” I asked her
+
+__________________________________________________________.
+
+10. “You will be surprised if Hoa passes the exam.”, Vinh said.
+
+__________________________________________________________.
+
+2. Đáp án:
+Đáp án bài tập 1:
+
+1. She told Bean that he would phone him the following day.
+
+2. Jack asked LiLy whether/if he could sit beside her.
+
+3. Binh said that he wanted a car for his birthday.
+
+4. Chi wanted to know whether I was going by train.
+
+5. He invited me to come to her birthday party.
+
+6. Bill asked what Micheal wanted for lunch.
+
+7. Long asked Huong whether/ if he could borrow her typewriter.
+
+8. Le accused Binh of stealing his best cassette.
+
+9. Robin accused Law of damaging her bicycle.
+
+10. The doctor advised Mr. Kane to take more exercise.
+
+Đáp án bài tập 2:
+
+1. Huong asked where her umbrella was.
+
+2. Lee asked Jack how he was.
+
+3. Vinh asked if he had to do it.
+
+4. The father asked his son where he had been.
+
+5. Lien asked her boyfriend which dress he liked best.
+
+6. Tran wanted to know what they were doing
+
+7. Tram wanted to know if I was going to the cinema
+
+8. The teacher wanted to know who spoke Japanese
+
+9. Tinh asked me how I knew that
+
+10. Mr. Hoa asked me if Caron had talked to Kevin
+
+Đáp án bài tập 3:
+
+1. The teacher told Jolli to stop talking
+
+2. Xuan told Minh to be patient
+
+3. Cam told him to get out of there
+
+4. Quoc told us to hurry up
+
+5. Linh asked Quoc to give her the key
+
+6. He asked Cole to play it again.
+
+7. She asked Bui to stand up.
+
+8. The receptionist asked Jack to fill in the form.
+
+9. Ly told Binh to take off his shoes.
+
+10. Loc told Xuan to mind her own business.
+
+Đáp án bài tập 4:
+
+1. Xuan asked Loc if he enjoyed listening to music.
+
+2. Lam asked me if I could speak French.
+
+3. Bien told me he hadn’t finished his housework.
+
+4. Tuyet told me that she didn’t like that blue cap.
+
+5. Tim told me that she must go home for the dinner.
+
+6. My girlfriend told me that she/he had just received a gift from her/his uncle.
+
+7. Le asked Dinh whether her/his sister and he went to the same school.
+
+8. Jayce said if the weather was fine, He would go on vacation to Hue.
+
+9. I asked her what she would do if she had 25 billion dollars.
+
+10. Vinh said that He would be surprised if Mary passes the exam.
