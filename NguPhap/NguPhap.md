@@ -40,8 +40,40 @@
 ## [5.6 Lưu ý trong mệnh đề quan hệ](#e6)
 ## [5.7 Các trường hợp bắt buộc phải dùng THAT chứ không dùng WHICH](#e7)
 ## [5.8 Bài tập củng cố kiến thức (có đáp án)](#e8)
-
 #
+
+# [6. MODAL VERB – ĐỘNG TỪ KHIẾM KHUYẾT](#f)
+## [6.1 Phần 1 - Modal verbs](#f11)
+### [6.1.1 Modal verbs là gì?](#f11)
+### [6.1.2 Những modal verb thông dụng](#f12)
+### [6.1.3 Modal verbs – Động từ khiếm khuyết have to – Must – Need to](#f13)
+### [6.1.4 Modal verbs – Động từ khiếm khuyết may – might](#f14)
+### [6.1.5 Modal verbs – Động từ khiếm khuyết need not](#f15)
+### [6.1.6 Modal verbs – Động từ khiếm khuyết will](#f16)
+### [6.1.7 Modal verbs – Động từ khiếm khuyết would](#f17)
+### [6.1.8 Modal verbs – Động từ khiếm khuyết shall](#f18)
+### [6.1.9 Modal verbs – Động từ khiếm khuyết should/ought to](#f19)
+### [6.1.10 Modal verbs – Động từ khiếm khuyết had better](#f110)
+### [6.1.11 Modal verbs – Động từ khiếm khuyết used to](#f111)
+### [6.2 Phần 2 -Công thức của Modal verbs](#f2)
+### [6.2.1 Các modal verbs – động từ khiếm khuyết hay gặp:](#f21)
+### [6.2.2 Modal verbs – Động từ khiếm khuyết could](#f22)
+### [6.2.3 Modal verbs – Động từ khiếm khuyết may / might](#f23)
+### [6.2.4 Modal verbs – Động từ khiếm khuyết must / mustn’tmust + V1 (phải), diễn tả](#f24)
+### [6.2.5 Modal verbs – Động từ khiếm khuyết needn’t + V1 = don’t / doesn’t have to + V1](#f25)
+### [6.2.6 Sự khác nhau giữa must và have to trong modal verbs](#26)
+### [6.2.7 Modal verbs – Động từ khiếm khuyết should](#f27)
+### [6.2.8 Ought to + V1 (nên) / ought not to + V1 (không nên), diễn tả:](#f28)
+### [6.2.9 Modal verbs – Động từ khiếm khuyết had better + V1 (nên, tốt hơn) / had better not + V1 (không nên)](#f29)
+### [6.2.10 Modal verbs – Động từ khiếm khuyết used to + V1: đã từng](#f210)
+## [6.3 Phần 3 – Phân loại Modal verbs](#f3)
+### [6.3.1 Modal verbs – Động từ khiếm khuyết can/ could: có thể.](#f31)
+### [6.3.2 Modal verbs – Động từ khiếm khuyết may/might: có thể.](#f32)
+### [6.3.3 Modal verbs – Động từ khiếm khuyết should/ought to: nên.](#f33)
+### [6.3.4 Modal verbs – Động từ khiếm khuyết must/have to: phải.](#f34)
+### [6.3.5 Modal verbs – Động từ khiếm khuyết will/be going to: sẽ.](#f35)
+## [6.4 BÀI TẬP THỰC HÀNH](#f4)
+
 # <a id="a"></a> 1. CÂU TƯỜNG THUẬT (REPORTED SPEECH
 
 ## <a id="a1"></a>1.1 Khái niệm câu tường thuật là gì?:
@@ -2292,3 +2324,758 @@ Exercise 3:
 4. The film which we watched last night was really scary.
 
 5. The new words which I have to learn are very difficult.
+
+#
+
+# <a id="f"></a> 6. MODAL VERB – ĐỘNG TỪ KHIẾM KHUYẾT
+
+## <a id="f1"></a> 6.1 Phần 1 - Modal verbs
+
+### <a id="f11"></a> 6.1.1 Modal verbs là gì?
+
+Trước hết phải giải thích rõ định nghĩa về loại động từ này. Có hai cách gọi mà bạn phải biết về động <br> từ khuyết thiếu là **Modal verbs** và **Auxiliary Verb**. Cả hai cách gọi này đều chỉ chung về <br> động từ khuyết thiếu, khiếm khuyết. Nên dù bạn đọc được cách gọi nào thì nó cũng như nhau nhé.
+
+**Modal verbs** được coi là động từ bất quy tắc và dùng để bổ nghĩa cho động từ chính trong câu, do đó, <br> sau **modal verbs**, động từ chính thường giữ nguyên không chia.
+
+Các động từ khuyết thiếu được sử dụng nhiều nhất hiện nay là Can, Will, May, Should, Must, Used to,….<br> Chúng ta cùng tìm hiểu về từng từ này với cách sử dụng riêng.
+
+**Modal verbs** được sử dụng diễn tả mục đích và ngữ nghĩa của câu, bao gồm khả năng, sự cho phép, bắt <br> buộc, cần thiết, dự đoán, yêu cầu,… .
+
+**Đặc điểm modal verb – Động từ khiếm khuyết**
+
+- Không thêm “-s”, “-ed”, “-ing”, vào sau động từ khuyết thiếu.
+- Động từ khuyết thiếu không cần chia ở ngôi thứ 3 như các động từ khác. Ở trường hợp nào cũng giữ <br> nguyên, không phải chia.
+- Được sử dụng với những mục đích khác nhau của người nói.
+- Không có hình thức động từ nguyên thể hay phân từ hai, bất quy tắc.
+- Động từ chính đi với động từ khuyết thiếu không chia, ở dạng nguyên thể và có “to” hoặc không.
+- Trong các câu hỏi, câu hỏi đuôi, câu phủ định…không cần trợ động từ
+
+### <a id="f12"></a> 6.1.2 Những modal verb thông dụng
+
+**“Can”** và **“Be able to”** đều có thể gọi là có thể làm gì đó.
+
+Can:
+
+- Kelvin, **can** you please open the door for me? (Kelvin, Bạn có thể mở giúp mình cánh cửa được không?)
+- Kelvin **can** cook!
+
+Be able to:
+
+- Kelvin is able to swim very well.
+
+- We are unable to swim like Kelvin.
+
+Các bạn có thể hiểu như này: **“Can”** chỉ việc bạn có thể làm không và thường những điều đó đều có <br> thể thực hiện được và dùng câu hỏi với **“Can”** như một lời nhờ vả lịch sự.
+
+Còn “Be able to” sâu hơn để chỉ việc mà có thể chỉ 1 cá nhân làm được và có giới hạn của việc thực <br> hiện hành động đó.
+
+- She is able to run very fast!
+- Cô ấy có khả năng chạy rất nhanh!
+- Kelvin is unable to run, he’s disabled!
+- Kelvin không có khả năng chạy, anh ấy kiệt sức!
+
+Note1: **Could** là dạng quá khứ của **“Can”**
+
+- They told me they **could** come to my tea party. I **have some tea to spill**.
+- Họ nói với tôi rằng họ có thể đến dự buổi tiệc trà của tôi. Tôi cũng có vài chuyện để phiếm (tám) với họ
+<br> “ Have tea to spill “ là idiom: có chuyện để tám
+- He could have done better if he had studied hard last night.
+- Anh ấy đã có thể hoàn thành tốt nếu như anh ấy đã có thể học thật chăm vào tối hôm qua.
+
+Note2: **Be able to** về quá khứ thì các bạn chỉ cần chia **“Be” => “Was/were”**
+
+- I wasn’t able to come to your tea party because of my insecure being in your story.
+- Tôi đã không thể đến dự tiệc trà của bạn bởi vì sự thiếu chắc chắn
+
+**Cách sử dụng COULD**
+
+**“Could”** (nghĩa “có lẽ”) dùng để chỉ một việc có lẽ sẽ diễn ra trong “tương lai” nhưng “chưa chắc chắn”:
+
+- It could be raining tomorrow, so bring an umbrella. Just in case.
+- Ngày mai trời có thể mưa, vì vậy hãy mang theo ô. Đề phòng thôi.
+- Be quiet! I heard something. It could be a tiger!
+- Hãy yên lặng! Tôi nghe nói một cái gì đó. Nó có thể là một con hổ!
+
+**“Could”** đặc biệt sử dụng với những động từ sau: See (nhìn), hear (nghe), smell (ngửi), taste (nếm), feel (cảm <br> thấy), remember (nhớ), understand (hiểu)
+
+- His accent is quite heavy but I could still understand him every bit!
+- Giọng anh ấy khá nặng nhưng tôi vẫn có thể hiểu anh ấy từng chút một!
+- Calm down Kel! I could tell that you are worrying.
+- Bình tĩnh đi Kel! Tôi có thể nói rằng bạn đang lo lắng.
+
+Khi trường hợp, ngữ cảnh câu nói bạn là về một sự việc mang tính gây cấn:
+
+- The building was on fire but Kelvin was able to escape (Không dùng could được vì gây cấn quá)
+- Kelvin is a famous deadlifter. He could win any medal! (Cái này bình thường, như đang quảng cáo là Kelvin <br> khỏe lắm)
+- 2021 Kelvin met John who was also a professional deadlifter. I thought Kel would have lost but he was able <br> to beat John (or managed to beat john)
+- 2021 Kelvin gặp John, người cũng là một vận động viên bế tắc chuyên nghiệp. Tôi nghĩ Kel sẽ thua nhưng anh <br> ấy đã có thể đánh bại John (hoặc quản lý để đánh bại John)
+
+**Note: Could** mình có thể dùng để lời nói được dễ thương hơn và người nghe sẽ thấy mình lịch sự.
+
+- **Can** you give me the bottle, please? <= Cũng đưa nước nhưng hơi không thân thiện
+- **Could** you give me the bottle, please? <= Đưa chai nước liền.
+
+### <a id="f13"></a> 6.1.3 Modal verbs – Động từ khiếm khuyết have to – Must – Need to
+
+**“Must,” “have to,” and “need to”** in the positive or question form are used to speak about <br> responsibilities, obligations, and important actions.
+
+- I must finish my homework before tomorrow.
+(Tôi phải hoàn thành bài tập về nhà trước ngày mai.)
+
+- He has to work on his presentation. It is due tonight.
+(Anh ấy phải làm việc với bài thuyết trình của mình. Nó đến hạn vào tối nay.)
+
+- They need to come to Tam Ky if they want to eat the best “chicken meal”.
+(Nếu muốn ăn món gà ngon nhất thì phải đến Tam Kỳ.)
+
+**Note:** Thường những từ trên đều dùng để nói về việc cần làm và là trách nhiệm bản thân.
+
+**“Must”, “Have to”** thường về công việc hơn còn
+
+**“Need to”** thường về cuộc sống thường nhật.
+
+**Note: “Must”** mạnh nhất và điều bắt buộc phải làm bằng được.
+
+**“Don’t have to”** : một điều gì đó không cần làm/ có, not required.
+
+- **I don’t have to** get up at 9 am today. <br>
+(Tôi không phải dậy lúc 9 giờ sáng hôm nay.)
+
+**“Don’t need to”** : Không cần làm gì (action). Một hành động không cần thiết
+
+- Kelvin doesn’t need to go to the grocery store this week. He has plenty of food. <br>
+(Kelvin không cần đến cửa hàng tạp hóa trong tuần này. Anh ấy có rất nhiều thức ăn.)
+
+**“Mustn’t”**: Nghiêm cấm!
+
+- You must not smoke cigarettes in public while in Singapore! <br>
+(Bạn không được hút thuốc lá nơi công cộng khi ở Singapore!)
+
+### <a id="f14"></a> 6.1.4 Modal verbs – Động từ khiếm khuyết may – might
+
+May
+
+Thể hiện sự xin phép
+
+- **May** I use your phone please?
+(Tôi có thể sử dụng điện thoại của bạn được không?)
+
+Thể hiện khả năng, xác suất
+
+- It **may** rain tomorrow!
+(Nó có thể mưa vào ngày mai!)
+
+Might
+
+Hỏi, xin phép lịch sự hơn
+
+- **Might** I interrupt for a moment?
+(Tôi có thể ngắt lời một lúc không?)
+
+Thể hiện khả năng, xác suất
+
+- The car looks nice but it **might** be expensive.
+(Chiếc xe trông đẹp nhưng nó có thể đắt tiền.)
+
+“May” và “might” dùng để xin phép, tuy nhiên “might” hầu như chỉ dùng trong câu gián tiếp và ít dùng trong <br> văn nói. Mức độ có thể nếu xác suất thấp thì dùng Might và cao hơn thì dùng May.
+
+He asked if she **might** come later.
+(Anh ấy hỏi cô ấy có thể đến sau không.)
+
+Bên cạnh đó,
+
+**May** – được dùng để đưa ra khả năng có thể; dự đoán ở hiện tại.
+
+- It may rain tomorrow.
+(Nó có thể mưa vào ngày mai.)
+
+Might – Đưa ra khả năng có thể; dự đoán ở quá khứ
+
+She **might have come** home late last night.
+(Cô ấy có thể về muộn vào đêm qua.)
+
+Với quá khứ, chúng ta sử dụng may **have/ might have**
+
+-I wonder why Kate didn’t answer her phone? She **may have** been asleep.
+(Tôi tự hỏi tại sao Kate không trả lời điện thoại của mình? Cô ấy có thể đã ngủ.)
+
+- I can find my key anywhere.- You **might have** left it at work.
+(Tôi có thể tìm thấy chìa khóa của mình ở bất cứ đâu. – Có thể bạn đã để quên nó ở cơ quan.)
+
+### <a id="f15"></a> 6.1.5 Modal verbs – Động từ khiếm khuyết need not
+
+Không cần thiết, không bắt buộc phải làm gì đó.
+
+- I **needn’t** come with us.
+(Tôi không cần phải đi cùng chúng tôi.)
+
+Có thể sử dụng **“don’t/ doesn’t need to…”**
+
+- We **don’t need** to hurry.
+(Chúng ta không cần phải vội vàng.)
+
+### <a id="f16"></a> 6.1.6 Modal verbs – Động từ khiếm khuyết will
+
+Đoán sự việc có thể xảy ra trong tương lai
+
+- It **will** be rainy tomorrow
+(Ngày mai trời sẽ mưa)
+
+- I think it **will** rain heavily tomorrow.
+(Tôi nghĩ ngày mai trời sẽ mưa to.)
+
+- Because her brother was young, I think he **would** probably like this picture.
+(Bởi vì anh trai cô ấy còn trẻ, tôi nghĩ anh ấy có thể sẽ thích bức ảnh này.)
+
+### <a id="f17"></a> 6.1.7 Modal verbs – Động từ khiếm khuyết would
+
+Diễn tả giả định xảy ra, dự đoán sự việc xảy ra trong quá khứ
+
+- He **would** be exhausted when hear this bad news. <br>
+(Anh ấy sẽ kiệt sức khi nghe tin dữ này.)
+
+- I **would** drink a glass of milk every day when I was a student in primary school. <br>
+(Tôi thường uống một ly sữa hàng ngày khi còn là học sinh tiểu học.)
+
+Mô tả những sự kiện (đơn giản, không có nhiều dự định) chắc chắn sẽ xảy ra trong tương lai.
+
+- I **will** go to the supermarket with my mom tomorrow. <br>
+(Tôi sẽ đi siêu thị với mẹ vào ngày mai.)
+
+- **Will** và would có thể dùng trong câu đề nghị, yêu cầu, lời mời.
+
+- **Will** you give me your address? <br>
+(Bạn sẽ cho tôi địa chỉ của bạn?)
+
+- **Will** you shut the door? <br>
+(Bạn sẽ đóng cửa lại?)
+
+- **Would** you like a car? <br>
+(Bạn có muốn một chiếc xe hơi?)
+
+- **Would** you like some coffee? <br>
+(Bạn có muốn uống cà phê không?)
+
+### <a id="f18"></a> 6.1.8 Modal verbs – Động từ khiếm khuyết shall
+
+Đề xuất làm gì với ngôi “I”, “we” hoặc giao nhiệm vụ cho người khác một cách trang trọng
+
+What **shall** we meet? <br>
+(Khi nào chúng ta nên gặp nhau?)
+
+We **shall** commit to doing the articles in the agreement. <br>
+(Chúng tôi sẽ cam kết thực hiện các điều trong thỏa thuận.)
+
+### <a id="f18"></a> 6.1.9 Modal verbs – Động từ khiếm khuyết should/ought to
+
+Should hay còn biết đến dạng khác là “Ought to”. Từ này được dùng để đưa ra lời khuyên, nên làm gì.
+
+- You **should** spend more time practising listening to English lectures. <br>
+(Bạn nên dành nhiều thời gian hơn để luyện nghe các bài giảng tiếng Anh.)
+
+- You **ought to** eat less meat and dairy products to avoid diseases such as cancer or diabetes. <br>
+(Bạn nên ăn ít thịt và các sản phẩm từ sữa để tránh các bệnh như ung thư hoặc tiểu đường)
+
+Thể hiện tính 50 % sự ép buộc
+
+- You **should/ought to** see a doctor. <br>
+(Bạn nên đến gặp bác sĩ.)
+
+Lời khuyên
+
+- You **should/ought** to revise your lessons at home. <br>
+(Bạn nên ôn tập các bài học tại nhà.)
+
+Kết luận có căn cứ
+
+- He **should/ought** to be very tired. He’s been working all day long. <br>
+(Anh ấy có thể rất mệt. Anh ấy đã làm việc cả ngày dài.)
+
+**Should/ought** to cũng được dùng khi diễn tả điều gì đó không đúng nếu không xảy ra.
+
+- Where’s Jane?- She **should** be here right now.
+(Jane ở đâu? Cô ấy nên ở đây ngay bây giờ.)
+
+### <a id="f110"></a> 6.1.10 Modal verbs – Động từ khiếm khuyết had better
+
+Lời khuyên ( tốt hơn hết là…..)
+
+You‘d **better** do the homework right now.
+(Bạn tốt hơn là làm bài tập ngay bây giờ.)
+
+### <a id="f111"></a> 6.1.11 Modal verbs – Động từ khiếm khuyết used to
+
+Trường hợp sử dụng
+
+**Used to V:** Đã từng làm gì
+
+- I **used to** eat a lot of ice cream when I was a little girl. <br>
+(Tôi đã từng ăn rất nhiều kem khi tôi còn là một bé gái.)
+
+**To get/ be used to Ving**
+
+Quen với việc làm gì
+
+- **I get used to/ am used to** eating a glass of water before having dinner. <br>
+(Tôi quen với việc uống một cốc nước trước bữa ăn tối.)
+
+### <a id="f2"></a> 6.2 Phần 2 -Công thức của Modal verbs
+
+### <a id="f21"></a> 6.2.1 Các modal verbs – động từ khiếm khuyết hay gặp:
+
+- Các modal verbs – động từ khiếm khuyết Can
+
+**Can + V1 (có thể)**
+
+**Can’t + V1   (không thể)**
+
+Diễn tả:
+
+Khả năng ở hiện tại, tương lai.
+
+- They **can** speak English. <br>
+(Họ có thể nói tiếng Anh.)
+
+Sự xin phép và cho phép. Can’t được dùng để từ chối lời xin phép
+
+- **Can** I use your phone? Yes, of course you can / No, I’m afraid you can’t. <br>
+(Tôi có thể sử dụng điện thoại của bạn? Vâng, tất nhiên rồi bạn có thể/ Không, tôi sợ rằng bạn không thể sử dụng.)
+
+Lời yêu cầu, đề nghị hoặc gợi ý.
+
+**Can** I carry your bag? <br>
+(Tôi có thể mang cặp sách của bạn?)
+
+**Can’t**: nói rằng chúng ta chắc chắn điều gì đó không thể xảy ra ở hiện tại
+
+She has cleaned the floor. It **can’t** be dirty. <br>
+(Cô ấy đã lau sàn nhà. Nó không thể bẩn được.)
+
+### <a id="f22"></a> 6.2.2 Modal verbs – Động từ khiếm khuyết could
+
+**Could + V1**
+
+**Couldn’t + V1**
+
+Diễn tả:
+
+Khả năng (phổ quát, chung chung) trong quá khứ
+
+- I **could** swim when I was ten. <br>
+(Tôi có thể bơi khi mà tôi lên 10.)
+
+Điều gì đó có thể xảy ra ở hiện tại, tương lai nhưng không chắc chắn
+
+- The phone is ringing. It **could** be Tim. <br>
+(Chuông điện thoại đang reo. Chắc hẳn là Tim.)
+
+Sự xin phép.
+
+Could lễ phép và trịnh trọng hơn can nhưng không dùng couldn’t để cho phép hoặc từ chối lời xin phép.
+
+- **Could** I ask you something? Yes, of course, you can. <br>
+(Tôi có thể hỏi bạn một vài chuyện được không? Vâng, tất nhiên rồi, bạn cứ nói.)
+
+- **Could** we picnic here? I’m afraid you can’t. <br>
+(Tôi có thể cắm trại ở đây không? Tôi sợ rằng bạn không thể.)
+
+### <a id="f23"></a> 6.2.3 Modal verbs – Động từ khiếm khuyết may / might
+
+Diễn tả
+
+Điều có thể xảy ra (không chắc chắn)
+
+**May / Might + V1**
+
+**May / Might + not + V1**
+
+**May / Might have + V3/-ed**
+
+**May / Might + not + have + V3/-ed**
+
+- He **may/might** be in his office. (= perhaps he is in his office) <br>
+(Anh ấy có lẽ ở trong văn phòng của mình.)
+
+- I **can’t** find my bag anywhere. <br>
+(Tôi không thể tìm túi của tôi ở bất cứ đâu)
+
+- You **may/might** have left it in the shop. (= perhaps you left it in the shop) <br>
+(Bạn có lẽ để nó ở tiệm.)
+
+Yêu cầu lịch sự hoặc xin phép hay cho phép
+
+- **May** I use your phone? – Yes, you may. / Sorry, you may not. <br>
+(Tôi có thể sử dụng điện thoại của bạn? Có bạn có thể/ Xin lỗi, nhưng bạn không thể)
+
+Lời chúc hay diễn tả niềm hy vọng
+
+- **May** you be happy.
+(Chúc bạn hạnh phúc.)
+
+Note: Could có thể dùng thay cho may/might
+
+The phone is ringing. It **could** be Tim. (= it may / might be Tim) <br>
+(Chuông điện thoại đang reo. Chắc có thể là Tim.)
+
+### <a id="f24"></a> 6.2.4 Modal verbs – Động từ khiếm khuyết must / mustn’tmust + V1 (phải), diễn tả
+
+Sự bắt buộc cần thiết (có tính chủ quan)
+
+- My car is very dirty. I **must** wash it now. <br>
+(Xe của tôi rất bẩn. Tôi phải rửa nó ngay)
+
+Một suy luận hợp lý và chắc chắn
+
+- John’s lights are out. He **must** be sleeping. <br>
+(Đèn của John thì tắt. Anh ấy chắc hẳn đang ngủ)
+
+Sự việc ở hiện tại hoặc tương lai, không dùng ở quá khứ
+
+- We **must** go tomorrow   (không dùng We must go yesterday) <br>
+(Bạn phải đi vào ngày mai.)
+
+Lời khuyên hoặc lời yêu cầu được nhấn mạnh
+
+- You **must** be here before eight o’clock tomorrow. <br>
+(Bạn phải có mặt ở đây trước 8 giờ vào ngày mai)
+
+**mustn’t + V1 (không được) diễn tả sự cấm đoán**
+
+You **must** keep it a secret. You mustn’t tell anybody else. <br>
+(Bạn phải giữ bí mật. Bạn không được nói với bất cứ ai khác)
+
+### <a id="f25"></a> 6.2.5 Modal verbs – Động từ khiếm khuyết needn’t + V1 = don’t / doesn’t have to + V1
+
+Không cần, không phải
+
+**Needn’t + V1 # must + V1**
+
+- We have got plenty of time. We **needn’t** hurry. ( = we **don’t need to** hurry = we don’t have to hurry)
+<br> (Chúng ta còn nhiều thời gian. Chúng ta không cần phải vội.)
+
+### <a id="f26"></a> 6.2.6 Sự khác nhau giữa must và have to trong modal verbs
+
+Must:
+
+Sự cần thiết hay bắt buộc có tính chủ quan (người nói đưa ra ý tưởng của riêng mình)
+
+Không thể dùng ở thì tương lai, tiếp diễn, quá khứ.
+
+- I **must** study for the exam. <br>
+(Tôi bắt buộc học cho kỳ thi.)
+
+- I haven’t phoned Ann for ages. I **must** phone her tonight. <br>
+(Tôi đã không gọi cho Ann một thời gian dài rồi. Tôi bắt buộc phải gọi cô ấy tối nay.)
+
+Have to:   
+
+Sự cần thiết hay bắt buộc có tính khách quan (sự bắt buộc do điều kiện bên ngoài: nội qui, qui định, luật pháp, …)
+
+Dùng thay cho must trong các trường hợp không thể dùng must
+
+- You **can’t** turn right here. You **have to** turn left. <br>
+(Bạn không thể qua phải ở đây. Bạn nên qua trái)
+
+- I **had** to go to the hospital. <br>
+(Tôi nên tới bệnh viện.)
+
+### <a id="f27"></a> 6.2.7 Modal verbs – Động từ khiếm khuyết should
+
+**Should + V1 (phải, nên)**
+
+**Shouldn’t + V1 (không nên)**
+
+Diễn tả:
+
+Sự bắt buộc hoặc bổn phận (nghĩa không mạnh bằng must)
+
+- You **shouldn’t** drink and drive. <br>
+(Bạn không nên uống và lái xe)
+
+Lời khuyên hoặc ý kiến
+
+- You **should** stop smoking. <br>
+(Bạn nên dừng việc hút thuốc.)
+
+### <a id="f28"></a> 6.2.8 Ought to + V1 (nên) / ought not to + V1 (không nên), diễn tả:
+
+Sự bắt buộc hoặc bổn phận (tương tự như should)
+
+Lời khuyên hoặc kiến nghị
+
+- You are not very well. Perhaps you ought to see a doctor.
+
+(Bạn không được khỏe. Có lẽ bạn nên đến gặp bác sĩ.)
+
+### <a id="f29"></a> 6.2.9 Modal verbs – Động từ khiếm khuyết had better + V1 (nên, tốt hơn) / had better not + V1 (không nên)
+
+Dùng đưa ra lời khuyên
+
+- It’s cold. The children **had better** wear their coats. <br>
+(Trời lạnh. Những đứa trẻ tốt hơn là nên mặc áo khoác của chúng.)
+
+- You don’t look very well. You’**d better** not go to work today. <br>
+(Bạn trông không tốt lắm. Bạn tốt hơn nên không đi làm ngày hôm nay.)
+
+### <a id="f210"></a> 6.2.10 Modal verbs – Động từ khiếm khuyết used to + V1: đã từng
+
+**S + used to + V1…**
+
+**S + didn’t use to + V1…**                                  
+
+**Did + S + use to + V1…?**
+
+- I **didn’t use to**like her but we are best friends now. <br>
+(Tôi đã từng không thích cô ấy nhưng chúng tôi bây giờ đã là bạn thân của nhau)
+
+**Be used to + V-ing / noun:** quen, quen với
+
+- I **am used to** living alone.
+(Tôi đã quen với sống một mình.)
+
+Get used to + V-ing / noun: trở nên quen với
+
+- You’ll soon **get used to** living in the country. <br>
+(Bạn sẽ trở nên quen với sông ở thành thị.)
+
+Note:
+
+**Can’t/couldn’t have + V3/-ed:** diễn tả điều gì chắc chắn không xảy ra trong quá khứ
+
+- Mary **can’t/couldn’t have** caught the bus. It doesn’t run on Sundays. <br>
+Must have + V3/-ed: diễn tả điều hầu như chắc chắn đã xảy ra trong quá khứ
+
+- The phone rang but no one answered it. They **must have been** asleep.
+
+**Should have + V3/-ed / shouldn’t have + V3/-ed:** điều lẽ ra nên xảy ra / không xảy ra trong quá khứ
+
+- **I should have** called him this morning, but I forgot.
+
+## <a id="f3"></a> 6.3 Phần 3 – Phân loại Modal verbs
+### <a id="f31"></a> 6.3.1 Modal verbs – Động từ khiếm khuyết can/ could: có thể.
+
+**Can + V → Can + be + V3/V-ed.**
+
+**Could + V → Could + be + V3/V-ed.**
+
+- I **can’t** see the words on the board → The words on the board can’t be seen. <br>
+(Tôi không thể nhìn thấy chữ trên bảng → Chữ trên bảng không thể được nhìn thấy).
+
+- She **could** make a cake yesterday → A cake **could be made** yesterday (by her). <br>
+(Hôm qua cô ấy đã có thể làm bánh → Bánh được làm ngày hôm qua bởi cô ấy).
+
+### <a id="f32"></a> 6.3.2 Modal verbs – Động từ khiếm khuyết may/might: có thể.
+
+**May + V → May + be + V3/V-ed.**
+
+**Might + V → Might + be + V3/V-ed.**
+
+- They **may** announce this news soon → This news **may be** announced soon. <br>
+(Họ có thể thông báo tin tức sớm → Tin tức sẽ được thông báo sớm).
+
+### <a id="f33"></a> 6.3.3 Modal verbs – Động từ khiếm khuyết should/ought to: nên.
+
+**Should + V → Should + be + V3/V-ed.**
+
+**Ought to + V → Ought to + be + V3/V-ed.**
+
+- You **should** repair your car → Your car should be repaired. <br>
+(Bạn nên sửa chữa ôtô của bạn → Ôtô của bạn nên được sửa chữa.)
+
+- Henry **ought to** leave a message on my table → A message ought to be left on my table. <br>
+(Henry nên để lại tin nhắn trên bàn của tôi → Tin nhắn của Henry nên được để lại trên bàn của tôi.)
+
+### <a id="f34"></a> 6.3.4 Modal verbs – Động từ khiếm khuyết must/have to: phải.
+
+**Must + V → Must + be + V3/V-ed.**
+
+**Have to + V → Have to + be + V3/V-ed.**
+
+- You **must wear** a helmet  → The helmet must be worn. <br>
+(Bạn phải đội nón bảo hiểm → Nón bảo hiểm phải được đội.)
+
+- You **have to finish** your work by noon→ Your work has to be finished by noon. <br>
+(Bạn phải hoàn thành công việc trước buổi trưa → Công việc phải được hoàn thành trước buổi trưa.)
+
+### <a id="f35"></a> 6.3.5 Modal verbs – Động từ khiếm khuyết will/be going to: sẽ.
+
+**Will + V → Will + be + V3/V-ed.**
+
+**Be going to +V → Be going to + be + V3/V-ed.**
+
+- They **will hold** a party next to a pool → A party will be held next to a pool. <br>
+(Họ sẽ tổ chức một bữa tiệc cạnh hồ bơi → Một bữa tiệc sẽ được tổ chức cạnh hồ bơi.)
+
+## <a id="f4"></a> 6.4 BÀI TẬP THỰC HÀNH
+
+Exercise 1: Chọn đáp án đúng nhất để điền vào chỗ trống trong mỗi câu sau.
+
+1. Young people ______ obey their parents.
+
+A. must
+
+B. may
+
+C. will
+
+D. ought to
+
+2. Laura, you and the kids just have dinner without waiting for me. I ______ work late today.
+
+A. can
+
+B. have to
+
+C. could
+
+D. would
+
+3. I ______ be delighted to show you around the factory.
+
+A. ought to
+
+B. would
+
+C. might
+
+D. can
+
+4. Leave early so that you ______ miss the bus.
+
+A. didn’t
+
+B. won’t
+
+C. shouldn’t
+
+D. mustn’t
+
+5. Jenny’s engagement ring is enormous! It ______ has cost a fortune.
+
+A. must
+
+B. might
+
+C. will
+
+D. should
+
+6. You ______ to write them today.
+
+A. should
+
+B. must
+
+C. had
+
+D. ought
+
+7. Unless he runs, he______ catches the train.
+
+A. will
+
+B. mustn’t
+
+C. wouldn’t
+
+D. won’t
+
+8. When _____you come back home?
+
+A. will
+
+B. may
+
+C. might
+
+D. maybe
+
+9. _____ you
+
+A. may
+
+B. must
+
+C. will
+
+D. could.
+
+Exercise 2: Viết lại các câu sau đây sao cho nghĩa không đổi.
+
+1. Perhaps Susan knows the address. (may)
+
+=> Susan______________________________________________
+
+2. It’s possible that Joanna didn’t receive my message. (might)
+
+=> Joanna ______________________________________________
+
+3. The report must be on my desk tomorrow. (has)
+
+=> The report ______________________________________________
+
+4. I managed to finish all my work. (able)
+
+=> I______________________________________________
+
+5. It was not necessary for Nancy to clean the flat. (didn’t)
+
+=> Nancy______________________________________________
+
+Exercise 3: Trong những câu sau đây, có một số câu chính xác và một số câu chứa một lỗi sai.
+
+Nếu câu đó đúng, hãy đánh dấu , nếu câu đó sai, hãy tìm và sửa lỗi sai đó.
+
+1. You must have be surprised when you heard the news.
+
+2. You needn’t have do all this work.
+
+3. The window must have been broken on purpose.
+
+4. You must tired after working so hard.
+
+5. One of the men may have died on the mountain.
+
+6. You must been driving too fast.
+
+7. The thief must have come in through the window.
+
+8. If he is not in the office, he must at home.
+
+ĐÁP ÁN
+
+Exercise 1
+
+1A 2C 3B 4B 5A
+
+6D 7D 8A 9C
+
+Exercise 2
+
+1. Susan may know the address.
+
+2. Joanna mightn’t have received my message.
+
+3. The report has to be on my desk tomorrow.
+
+4. I was able to finish all my work.
+
+5. Nancy didn’t need to clean the flat.
+
+Exercise 3
+
+1. be => been
+
+2. do => done
+
+3. Đúng
+
+4. must => must be
+
+5. Đúng
+
+6. must been => must have been
+
+7. Đúng
+
+8. must => must be
