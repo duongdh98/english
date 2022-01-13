@@ -29,6 +29,17 @@
 ## [4.3 INFINITIVES – Động từ nguyên mẫu](#d3)
 ## [4.4 Khi nào dùng Gerund (Danh động từ) và khi nào dùng Infinitives (Động từ nguyên mẫu)](#d4)
 ## [4.5 Bài tập về Gerund và Infinitives](#d5)
+#
+
+# [5. MỆNH ĐỀ QUAN HỆ (RELATIVE CLAUSES)](#e)
+## [5.1 Định nghĩa mệnh đề quan hệ](#e1)
+## [5.2 Các loại mệnh đề quan hệ](#e2)
+## [5.3 Đại từ quan hệ (Relative Pronouns)](#e3)
+## [5.4 Trạng từ quan hệ:](#e4)
+## [5.5 Mệnh đề quan hệ rút gọn](#e5)
+## [5.6 Lưu ý trong mệnh đề quan hệ](#e6)
+## [5.7 Các trường hợp bắt buộc phải dùng THAT chứ không dùng WHICH](#e7)
+## [5.8 Bài tập củng cố kiến thức (có đáp án)](#e8)
 
 #
 # <a id="a"></a> 1. CÂU TƯỜNG THUẬT (REPORTED SPEECH
@@ -1735,3 +1746,549 @@ Bài 4: Chia động từ ở trong ngoặc
 9. to lock – going
 
 10. to persuade
+
+#
+
+# <a id="e"></a> 5. MỆNH ĐỀ QUAN HỆ (RELATIVE CLAUSES)
+
+## <a id="e1"></a> 5.1 Định nghĩa mệnh đề quan hệ
+
+**Mệnh đề quan hệ ( Relative Clauses)** là mệnh đề phụ được nối với mệnh đề chính bởi các đại từ quan hệ <br> (who,whom, which, that)  hoặc trạng từ quan hệ ( when, where, why), đứng sau danh từ hoặc đại từ <br> và bổ nghĩa cho danh từ/đại từ đó.
+
+Sau đây là một số ví dụ cụ thể:
+
+E.g: The woman who is wearing the glasses is our new teacher.
+
+Trong câu trên, phần in nghiêng là một mệnh đề quan hệ, đứng sau “the woman” và dùng để xác định danh <br> từ đó. Nếu bỏ mệnh đề trên, chúng ta vẫn có một câu hoàn chỉnh: The woman is our new teacher.
+
+E.g: The little girl is Tom’s daughter. She is smiling at you.
+
+→ The little girl, who is smiling at you, is Tom’s daughter.
+
+## <a id="e2"></a> 5.2 Các loại mệnh đề quan hệ
+
+**1. Mệnh đề quan hệ xác định (Defining relative clause):**
+
+Mệnh đề quan hệ xác định cung cấp những thông tin quan trọng cần thiết để xác định danh từ hoặc cụm <br> danh từ đứng trước và nếu không có mệnh đề này thì câu sẽ không đủ nghĩa.
+
+Mệnh đề quan hệ xác định được sử dụng khi danh từ là danh từ không xác định và không dùng dấu phẩy <br> ngăn cách nó với mệnh đề chính.
+
+E.g 1:  The man **whom you met yesterday** is a famous lawyer.
+
+E.g 2: Do you remember the time **when we first met each other?**
+
+**2. Mệnh đề quan hệ không xác định (Non- defining relative clause):**
+
+Mệnh đề quan hệ không xác định cung cấp thêm thông tin về một người, một vật hoặc một sự việc đã được <br> xác định. Mệnh đề không xác định không nhất thiết phải có trong câu vì không có nó câu vẫn đủ nghĩa.
+
+Mệnh đề này được sử dụng khi danh từ là danh từ xác định và được ngăn cách với mệnh đề chính bằng một <br> hoặc hai dấu phẩy (,) hay dấu gạch ngang (-).
+
+E.g 1:  Hanoi, **which is the capital of Vietnam,** has been developing rapidly in recent years.
+
+E.g 2:  Dalat, **which I visited last summer,** is very beautiful.
+
+Lưu ý: Để biết khi nào dùng mệnh đề quan hệ không xác định, ta lưu ý các điểm sau:
+
+- Khi danh từ mà nó bổ nghĩa là một danh từ riêng
+- Khi danh từ mà nó bổ nghĩa là một tính từ sở hữu (my, his, her, their)
+- Khi danh từ mà nó bổ nghĩa là một danh từ đi với this, that, these, those,…
+
+## <a id="e3"></a> 5.3 Đại từ quan hệ (Relative Pronouns)
+
+![image](./Picture/e.PNG)
+
+**1. WHO**
+
+Là đại từ quan hệ chỉ người, làm chủ ngữ cho động từ đứng sau nó, theo sau who là một động từ
+
+E.g:
+
+- The man who is sitting by the fireplace is my father. (Người đàn ông ngồi cạnh lò sưởi là ba của tôi.)
+- That is the boy who helped me to find your house. (Đó là cậu bé đã giúp tôi tìm nhà của bạn.)
+
+**2. WHOM**
+
+Là đại từ quan hệ chỉ người, làm tân ngữ động từ đứng sau nó, theo sau whom là một chủ ngữ
+
+E.g:
+
+- The woman whom you saw yesterday is my aunt. (Người phụ nữ hôm qua bạn gặp là dì của tôi.)
+- The boy whom we are looking for is Tom. (Cậu bé mà chúng ta đang tìm chính là Tom.)
+
+**3. WHICH**
+
+WHICH – là đại từ quan hệ trong tiếng Anh chỉ vật, làm chủ ngữ hoặc tân ngữ cho động từ sau nó, theo <br> sau which có thể là một động từ hoặc một chủ ngữ.
+
+E.g:
+
+- This is the book which I like best. (Đó là quyển sách tôi thích nhất.)
+- The hat which is red is mine. (Cái mũ màu đỏ là của tôi.)
+
+**4. THAT**
+
+Là đại từ quan hệ chỉ cả người lẫn vật, có thể sử dụng để thay thế cho Who, Whom và Which trong mệnh <br> đề quan hệ xác định.
+
+E.g: 
+
+- This is the book that I like best. (Đó là quyển sách tôi thích nhất.)
+- My father is the person that I admire most. (Ba tôi là người tôi ngưỡng mộ nhất.)
+- I can see the girl and her dog that are running in the park. (Tôi có thể nhìn thấy cô bé và chú chó <br> đang chạy trong công viên.)
+
+## <a id="e4"></a> 5.4 Trạng từ quan hệ:
+
+Trạng từ quan hệ có thể được sử dụng thay cho một đại từ quan hệ và giới từ. Cách làm này sẽ làm cho <br> câu dễ hiểu hơn.
+
+E.g: This is the shop **in which I bought my bike**. ➨ This is the shop **where I bought my bike.**
+
+![image](./Picture/e1.PNG)
+
+**1.WHERE**
+
+Là trạng từ thay thế cho danh từ/cụm danh từ chỉ nơi chốn, địa điểm.
+
+….N(place) +WHERE + S + V
+
+E.g 1: The hotel wasn’t very clean. We stayed at that hotel. 
+
+→ The hotel where we stayed wasn’t very clean.
+
+(Khách sạn mà chúng tôi ở không được sạch sẽ lắm.)
+
+E.g 2: This is my hometown. I was born and grew up here. 
+
+→ This is my hometown where I was born and grew up.
+
+(Đấy là thị trấn nơi tôi sinh ra và lớn lên.)
+
+E.g 3: The restaurant was near the airport.  We had lunch there. 
+
+→ The restaurant where we had lunch was near the airport.
+
+(Nhà hàng mà chúng tôi đã ăn trưa thì ở gần sân bay.)
+
+**2. WHEN**
+
+Là trạng từ quan hệ để thay thế cho cụm từ/từ chỉ thời gian.
+
+…N (time) + WHEN + S + V
+
+E.g 1: Do you still remember the day? We first met on that day.
+
+→ Do you still remember the day when we first met?
+
+→ Do you still remember the day on which we first met?
+
+(Em có nhớ lần đầu tiên ta gặp nhau không?)
+
+E.g 2: I don’t know the time. She will come back then.
+
+→ I don’t know the time when she will come back.
+
+(Tôi không biết khi nào cô ấy sẽ quay lại.)
+
+E.g 3: That was the day. I met my wife on this day.
+
+→That was the day when I met my wife.
+
+(Đó chính là ngày mà tôi gặp vợ tôi.)
+
+**3. WHY**
+
+Trạng từ quan hệ why mở đầu cho mệnh đề quan hệ chỉ lý do, thường thay cho cụm for the reason, for <br> that reason.
+
+…N (reason) + WHY + S + V
+
+E.g 1: I don’t know the reason. You didn’t go to school for that reason.
+
+→ I don’t know the reason why you didn’t go to school.
+
+(Tôi không biết lý do vì sao bạn nghỉ học.)
+
+## <a id="e5"></a> 5.5 Mệnh đề quan hệ rút gọn
+
+**1. Rút gọn mệnh đề quan hệ trong câu chủ động**
+
+Khi đại từ quan hệ là chủ ngữ của mệnh đề chủ động, chúng ta lược bỏ đại từ quan hệ, to be (nếu có) và <br> chuyển động từ về dạng V-ing.
+
+E.g: The girl who is sitting next to the only boy in the class is my sister
+
+→The girl sitting next to the only boy in the class is my sister
+
+(Cô bé ngồi cạnh cậu bé duy nhất trong lớp là em gái của tôi.)
+
+**2. Rút gọn mệnh đề quan hệ trong câu bị động**
+
+Khi đại từ quan hệ là chủ ngữ của mệnh đề bị động, chúng ta lược bỏ đại từ quan hệ, to be và chuyển <br> động từ về dạng phân từ II.
+
+E.g: The house which is being built at the moment belongs to Mr. Thomas.
+
+→ The house built at the moment belongs to Mr. Thomas.
+
+(Ngôi nhà đang được xây dựng là của Thomas.)
+
+**3. Rút gọn mệnh đề quan hệ thành dạng động từ nguyên mẫu**
+
+Mệnh đề quan hệ được rút thành cụm động từ nguyên mẫu (To-infinitive) khi trước đại từ quan hệ có các <br> cụm từ: the first, the second, the last, the only hoặc hình thức so sánh nhất.
+
+E.g: Chủ động: The first student who comes to class has to clean the board.
+
+→The first student to come to class has to clean the board.
+
+(Học sinh tới lớp đầu tiên thì phải lau bảng.)
+
+Bị động: The only picture which was painted yesterday was Mary’s.
+
+→ The only picture to be painted yesterday was Mary’s.
+
+(Bức tranh duy nhất được tô màu là của Mary.)
+
+**4. Rút gọn mệnh đề quan hệ trong câu có chứa tobe**
+
+Khi đại từ quan hệ theo sau là to be và danh từ/cụm danh từ, chúng ta lược bỏ đại từ quan hệ và to be.
+
+Eg: Football, which is a very popular sport, is good for health.
+
+→ Football, a very popular sport, is good for health.
+
+(Bóng đá, một môn thể thao phổ biến, rất tốt cho sức khỏe.)
+
+Trong mệnh đề quan hệ xác định, be chuyển thành being:
+
+Eg: I like the man who is always humorous.
+
+→ I like the man being always humorous.
+
+(Tôi thích người đang ông lúc nào cũng vui vẻ.)
+
+Mệnh đề quan hệ chứa be có bổ ngữ là 1 tính từ, khi lược bỏ đại từ quan hệ và be, tính từ phải đưa ra <br> trước danh từ.
+
+Eg: My grandmother, who is sick, never goes out of the house.
+
+    → My sick grandmother, never leaves the house.
+
+(Bà tôi bị ốm và không bao giờ ra khỏi nhà.)
+
+## <a id="e6"></a> 5.6 Lưu ý trong mệnh đề quan hệ
+
+**1. Nếu trong mệnh đề quan hệ có giới từ thì giới từ có thể đặt trước hoặc sau mệnh đề quan hệ (chỉ** <br> **áp dụng với whom và which.)**
+
+E.g: Mr. Brown is a nice teacher. We studied with him last year.
+
+→ Mr. Brown, with whom we studied last year, is a nice teacher.
+
+→ Mr. Brown, whom we studied with last year, is a nice teacher.
+
+(Thầy Brown mà chúng mình học năm ngoài, là một thầy giáo rất tuyệt vời.)
+
+**2. Có thể dùng which thay cho cả mệnh đề đứng trước.**
+
+E.g: She can’t come to my birthday party, which makes me sad.
+
+(Việc cô ấy không thể đến dự sinh nhật tôi làm tôi rất buồn.)
+
+**3. Ở vị trí túc từ, whom có thể được thay bằng who**
+
+E.g: I’d like to talk to the man whom / who I met at your birthday party.
+
+(Tôi thích nói chuyện với người đàn ông mà tôi đã gặp trong bữa tiệc sinh nhật.)
+
+**4. Trong mệnh đề quan hệ xác định, chúng ta có thể bỏ các đại từ quan hệ làm túc từ:whom, which.**
+
+E.g 1: The girl you whom met yesterday is my close friend.
+
+→ The girl you met yesterday is my close friend.
+
+(Cô gái hôm qua cậu gặp là bạn thân của tôi.)
+
+E.g 2: The book which you lent me was very interesting.
+
+→ The book you lent me was very interesting.
+
+(Quyển sách bạn cho tôi mượn rất thú vị.)
+
+**5. Các cụm từ chỉ số lượng some of, both of, all of, neither of, many of, none of có thể được** 
+<br> **dùng trước whom, which và whose.**
+
+E.g 1: I have two sisters, both of whom are students.
+
+(Tôi có hai em gái, cả hai đều là học sinh.)
+
+E.g 2: She tried on three dresses, none of which fitted her.
+
+(Cô ấy thử cả ba cái váy, không cái nào vừa với cô ấy cả.)
+
+**6. Không dùng WHO VÀ THAT sau giới từ.**
+
+## <a id="e7"></a> 5.7 Các trường hợp bắt buộc phải dùng THAT chứ không dùng WHICH
+
+**1. Khi cụm từ đứng trước đại từ quan hệ vừa là danh từ chỉ người và vật**
+
+E.g: She told me a lot about the places and people that he had visited in her country.
+
+(Cô ấy kể cho tôi rất nhiều về các vùng đất và con người cô ấy từng thăm ở đất nước của cô ấy.)
+
+**2. Khi đại từ quan hệ theo sau danh từ có các tính từ so sánh hơn nhất**
+
+E.g: This is the most interesting book that I’ve ever read.
+
+(Đây là cuốn sách hay nhất tôi từng đọc.)
+
+**3. Khi đại từ quan hệ theo sau danh từ đi cùng với all, only và very**
+
+E.g:  That is all that I can say. (Đó là tất cả những gì tôi có thể nói.)
+
+I bought the only coat that they had. (Tôi đã mua cái áo khoác duy nhất mà mà có.)
+
+You’re the person that I would like to see. (Em chính là người mà anh muốn gặp.)
+
+**4. Khi đại từ quan hệ theo sau các đại từ bất định**
+
+E.g 1: He never says anything that pleases people.
+
+(Anh ta chả nói gì vừa lòng mọi người.)
+
+E.g 2: She’ll tell you something that you want to know.
+
+(Cô ấy sẽ nói cho bạn điều bạn muốn biết.)
+
+## <a id="e8"></a> 5.8 Bài tập củng cố kiến thức (có đáp án)
+
+Exercise 1: Choose the correct answer to fill in blanks:
+1. She is talking about the author ________book is one of the best-sellers this year.
+
+A. which
+
+B. whose
+
+C. that
+
+D. who
+
+2. He bought all the books __________are needed for the next exam.
+
+A. which
+
+B. what
+
+C. those
+
+D. who
+
+3. The children, __________parents are famous teachers, are taught well.
+
+A. that
+
+B. whom
+
+C. whose
+
+D. their
+
+4. Do you know the boy ________we met at the party last week?
+
+A. which
+
+B. whose
+
+C. who is
+
+D. whom
+
+5. The exercises which we are doing ________very easy.
+
+A. is
+
+B. has been
+
+C. are
+
+D. was
+
+6. The man _______next to me kept talking during the film, _______really annoyed me.
+
+A. having sat / that
+
+B. sitting / which
+
+C. to sit / what
+
+D. sitting / who
+
+7. Was Neil Armstrong the first person ________foot on the moon?
+
+A. set
+
+B. setting
+
+C. to set
+
+D. who was set
+
+8. This is the village in ________my family and I have lived for over 20 years.
+
+A. which
+
+B. that
+
+C. whom
+
+D. where
+
+9. My mother, ________everyone admires, is a famous teacher.
+
+A. where
+
+B. whom
+
+C. which
+
+D. whose
+
+10. The old building __________is in front of my house fell down.
+
+A. of which
+
+B. which
+
+C. whose
+
+D. whom
+
+Exercise 2: Make one sentence from the two short ones:
+1. She worked for a man. The man used to be an athlete. _______________________________________________________________
+
+2. They called a lawyer. The lawyer lived nearby. _______________________________________________________________
+
+3. I sent an email to my brother. My brother lives in Australia. _______________________________________________________________
+
+4. The customer liked the waitress. The waitress was very friendly. _______________________________________________________________
+
+5. We broke the computer. The computer belonged to my father. _______________________________________________________________
+
+6. I dropped a glass. The glass was new.
+
+_______________________________________________________________
+
+7. She loves books. The books have happy endings. _______________________________________________________________
+
+8. They live in a city. The city is in the north of England. _______________________________________________________________
+
+9. The man is in the garden. The man is wearing a blue jumper. _______________________________________________________________
+
+10. The girl works in a bank. The girl is from India. _______________________________________________________________
+
+Exercise 3: Combine two sentences using relative clauses:
+1. We bought a car last week. The car is blue.
+
+=> The car.………………………………………………………………………
+
+2. The girl is a singer. We met her at the party.
+
+=> The girl……………………………………………………………………….
+
+3. The bananas are on the table. George bought them.
+
+=> The bananas………………………………………………………………..
+
+4. We watched a film last night. It was really scary.
+
+=> The film………………………………………………………………………
+
+5. I have to learn new words. They are very difficult.
+
+=> The new words………………………………………………………………
+
+ĐÁP ÁN:
+
+Exercise 1:
+      B
+Sau chỗ trống là danh từ “book” nên từ cần điền vào là đại từ quan hệ whose để thay thế cho tính từ sở hữu.
+
+Dịch nghĩa: Cô ấy đang nói chuyện về tác giả mà cuốn sách của ông ấy là một trong những cuốn sách bán chạy nhất năm nay.
+
+      A
+Trong câu đại từ quan hệ “that” dùng để thay thế cho chủ ngữ trong mệnh đề xác định
+
+Dịch nghĩa: Anh ấy đã mua tất cả những quyển sách mà cần cho kỳ thi sắp tới.
+
+      C
+Phía sau chỗ trống là danh từ “parents” nên từ cần điền vào là đại từ whose
+
+Dịch nghĩa: Những đứa trẻ mà bố mẹ của chúng là giáo viên nổi tiếng thì được dạy dỗ tốt.
+
+      D
+Chúng ta dùng whom để thay thế cho tân ngữ chỉ người trong câu này.
+
+Dịch nghĩa: Bạn có biết cậu bé mà chúng ta đã gặp ở bữa tiệc tuần trước không?
+
+      C
+Chủ ngữ phía trước là “the exercises” (danh từ số nhiều) nên động từ to be là are
+
+Dịch nghĩa: Những bài tập mà chúng tôi đang làm thì rất dễ.
+
+      B
+Rút gọn mệnh đề quan hệ ở chủ động nên động từ phía trước là Ving. Dùng đại từ quan hệ “which” ở phía sau để thay thế cho cả mệnh đề ở phía trước.
+
+Dịch nghĩa: Người đàn ông mà ngồi bên cạnh tôi liên tục nói chuyện suốt cả bộ phim, điều mà thực sự đã làm tôi bực mình.
+
+      C
+Trong câu có the first…  nên khi rút gọn mệnh đề quan hệ ta dùng to V.
+
+Dịch nghĩa: Có phải Neil Armstrong là người đầu tiên đã đặt chân lên mặt trăng không?
+
+      A
+In which = where: thay thế cho cụm từ nơi chốn.
+
+Dịch nghĩa: Đây là ngôi làng mà tôi và gia đình đã sống được hơn 20 năm rồi.
+
+      B
+Thay thế cho tân ngữ chỉ người nên đáp án là whom.
+
+My mother is a famous teacher. Everyone admires her. (tân ngữ)
+
+=> My mother, whom everyone admires, is a famous teacher.
+
+Dịch nghĩa: Mẹ tôi, người mà mọi người ngưỡng mộ, là giáo viên nổi tiếng.
+
+    B
+Thay thế cho chủ ngữ chỉ vật nên đáp án là which.
+
+The old building fell down. It is in front of my house.
+
+=> The old building which is in front of my house fell down.
+
+Dịch nghĩa: Tòa nhà cũ ở phía trước nhà tôi đã đổ xuống.
+
+Exercise 2:
+
+1. She worked for a man who used to be an athlete.
+
+2. They called a lawyer who / that lived nearby.
+
+3. I sent an email to my brother who / that lives in Australia.
+
+4. The customer liked the waitress who / that was very friendly.
+
+5. We broke the computer which / that belonged to my father.
+
+6. I dropped a glass which / that was new.
+
+7. She loves books which / that have happy endings.
+
+8. They live in a city which / that is in the north of England.
+
+9. The man who is wearing a blue jumper is in the garden.
+
+10. The girl who/ that works in a bank is from India.
+
+Exercise 3:
+
+1. The car which we bought last week is blue.
+
+2. The girl whom we met at the party is a singer.
+
+3. The bananas which George bought are on the table.
+
+4. The film which we watched last night was really scary.
+
+5. The new words which I have to learn are very difficult.
