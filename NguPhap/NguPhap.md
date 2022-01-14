@@ -73,6 +73,18 @@
 ### [6.3.4 Modal verbs – Động từ khiếm khuyết must/have to: phải.](#f34)
 ### [6.3.5 Modal verbs – Động từ khiếm khuyết will/be going to: sẽ.](#f35)
 ## [6.4 BÀI TẬP THỰC HÀNH](#f4)
+#
+
+# [7. SO SÁNH HƠN VÀ SO SÁNH NHẤT](#g)
+## [7.1 Các loại tính từ, trạng từ trong câu so sánh tiếng Anh](#g1)
+## [7.2 Cấu trúc câu so sánh hơn trong tiếng Anh](#g2)
+## [7.3 Cấu trúc câu so sánh hơn trong tiếng Anh](#g3)
+## [7.4 Một số quy tắc về việc tạo nên các tính từ so sánh hơn và so sánh nhất](#g4)
+## [7.5 Bài luyện tập](#g5)
+#
+
+# [8. Cụm động từ (Phrasal verb)](#h)
+#
 
 # <a id="a"></a> 1. CÂU TƯỜNG THUẬT (REPORTED SPEECH
 
@@ -3079,3 +3091,393 @@ Exercise 3
 7. Đúng
 
 8. must => must be
+ 
+#
+
+# <a id="g"></a> 7. SO SÁNH HƠN VÀ SO SÁNH NHẤT
+
+## <a id="g1"></a> 7.1 Các loại tính từ, trạng từ trong câu so sánh tiếng Anh
+
+**1. Tính từ ngắn và tính từ dài:**
+
+Tính từ ngắn gồm:
+
+- Tính từ có một âm tiết. Ví dụ: bad, short, good,…
+- Tính từ có hai âm tiết kết thúc bằng –y, –le,–ow, –er, et. Ví dụ: sweet, clever,…
+
+Các tính từ có từ ba âm tiết trở lên được gọi là tính từ dài. Ví dụ: beautiful, intelligent, expensive,…
+
+**2. Trạng từ ngắn và trạng từ dài:**
+
+- Trạng từ ngắn là trạng từ có một âm tiết. Ví dụ: far, fast, hard, near, right, wrong,…
+- Trạng từ dài là trạng từ có hai âm tiết trở lên. Ví dụ: beautifully, quickly, kindly,…
+
+## <a id="g2"></a> 7.2 Cấu trúc câu so sánh hơn trong tiếng Anh
+
+So sánh hơn là cấu trúc so sánh được sử dụng khi so sánh giữa 2 hoặc nhiều sự vật, hiện tượng nào đó dựa <br> trên 1 tiêu chí nhất định. Trong đó một sự vật, hiện tượng HƠN những sự vật, hiện tượng còn lại.
+
+**1. Cấu trúc so sánh hơn với tính từ và trạng từ ngắn**
+```sh
+  S + V + (Adj/Adv) + “-er” + than
+```
+E.g:
+
+- Jennie’s grades are higher than her sister’s. (Điểm của Jennie cao hơn chị gái của cô ấy.)
+- Today is colder than yesterday. (Hôm nay lạnh hơn hôm qua.)
+- My girlfriend came later than me. (Bạn gái tôi đến muộn hơn tôi.)
+- Lindy is **shorter than** her younger sister. (Lindy thấp hơn em gái của mình.)
+- My ruler is **longer than** yours. (Thước của tôi dài hơn của bạn.)
+
+**2. Cấu trúc so sánh hơn với tính từ và trạng từ dài**
+```sh
+  S + V + more + Adj/Adv + than
+```
+E.g:
+
+- He is a **more professional soccer** than me. (Anh ấy đá bóng chuyên nghiệp hơn tôi.)
+- He speaks Korean **more fluently than** his friend. (Anh ấy nói tiếng Hàn trôi chảy hơn bạn của anh ấy.)
+- She visits her family **less frequently than** I used to. (Cô ấy ít về thăm gia đình hơn tôi trước đây.)
+- This hat is **more expensive than** the others. (Chiếc mũ này đắt hơn những chiếc khác.)
+- My father drives **more carefully than** my brother. (Cha tôi lái xe cẩn thận hơn anh trai tôi.)
+
+Lưu ý: Có thể thêm các trạng từ (far, much. a bit / a little, a lot) để bổ nghĩa cho so sánh hơn.
+
+E.g: Mike’s phone is much more expensive than mine. (Điện thoại của Mike đắt hơn của tôi rất nhiều.)
+
+**3. Cấu trúc viết lời bình phẩm đối với so sánh hơn**
+```sh
+  S + have/ has + V3/ed + a/any + adj_ngắn-er + noun + than…
+  
+  S + have/ has + V3/ed + a + more + adj_dài + noun + than…
+```
+Eg:
+
+- I’ve never seen a/any longer bridge than this one. (Tôi chưa bao giờ nhìn thấy cây cầu nào dài hơn cây cầu này.)
+- I’ve never read a more interesting book than this one. (Tôi chưa bao giờ đọc quyển sách nào thú vị hơn quyển sách này.)
+
+## <a id="g3"></a> 7.3 Cấu trúc câu so sánh hơn trong tiếng Anh
+
+So sánh nhất được sử dụng khi so sánh nhiều sự vật, hiện tượng dựa trên một tiêu chí nhất định. Trong đó <br> có một sự vật, hiện tượng vượt trội hơn hẳn so với các sự vật, hiện tượng còn lại.
+
+Trong cấu trúc này, trước mỗi tính từ được sử dụng trong câu sẽ có thêm từ “the”. Số lượng đối tượng <br> dùng để so sánh thường từ 3 đối tượng trở lên. Nhằm diễn tả một người hoặc vật mang một đặc điểm <br> nào đó vượt trội hơn hẳn so với tất cả những đối tượng còn lại được nhắc đến.
+
+**1. Cấu trúc so sánh nhất với tính từ và trạng từ ngắn**
+```sh
+  S + V + the + Adj/Adv + -est
+```
+
+E.g:
+
+- My brother is **the tallest** in our family. (Anh trai của tôi là người cao nhất trong gia đình chúng tôi.)
+- Sunday **is the coldest** day of the month so far. (Chủ nhật là ngày lạnh nhất trong tháng cho đến nay.)
+- He runs **the fastest** in my city. (Anh ấy chạy nhanh nhất trong thành phố của tôi.)
+- Linda is **the youngest** person in my office. (Linda là người trẻ nhất trong văn phòng của tôi.)
+- My house is **the highest** one in my neighborhood. (Nhà của tôi là ngôi nhà cao nhất trong khu phố của tôi.)
+
+**2. Cấu trúc so sánh nhất với tính từ và trạng từ dài**
+```sh
+  S + V + the + most + Adj/Adv
+```
+
+E.g
+
+- **The most boring** thing about English course is doing grammar exercises. (Điều nhàm chán nhất của khóa học <br> tiếng Anh là làm các bài tập ngữ pháp.)
+- Lisa is **the most careful** person I ever have known. (Lisa là người cẩn thận nhất mà tôi từng biết.)
+- Of all the students, she does **the most quickly**. (Trong tất cả các học sinh, cô ấy làm nhanh nhất.)
+- This is **the most difficult** case we have ever encountered. (Đây là trường hợp khó nhất mà chúng tôi từng gặp.)
+- Linda is **the most intelligent** student in my class. (Linda là học sinh thông minh nhất trong lớp của tôi.)
+
+Lưu ý: Có thể thêm các trạng từ (very, by far, much, almost, quite) trước cụm từ so sánh để mang ý nghĩa nhấn mạnh.
+
+E.g: Here is the very latest news about the accident. (Đây là tin tức mới nhất về vụ tai nạn.)
+
+**3. Cấu trúc viết lời bình phẩm đối với so sánh nhất**
+```sh
+  That’s/ it’s + the + adj_ngắn- est + noun + S + have/ has + ever + P2
+  
+  That’s/ it’s + the + most + adj_dài + noun + S + have/ has + ever + P2
+```
+E.g:
+
+- That’s the most interesting book I’ve ever read. (Đó là quyển sách thú vị nhất mà tôi từng đọc.)
+- That’s the longest bridge I’ve ever seen. (Đó là cây cầu dài nhất mà tôi từng thấy.)
+
+## <a id="g4"></a> 7.4 Một số quy tắc về việc tạo nên các tính từ so sánh hơn và so sánh nhất
+
+Đối với các **tính từ có một âm tiết**, bạn chỉ cần thêm đuôi **-er** để tạo tính từ so sánh hơn, thêm đuôi **-est** để <br> tạo tính từ so sánh nhất.
+
+- Nếu tính từ có một âm tiết, kết thúc bằng một phụ âm, đứng trước phụ âm đó là một nguyên âm, thì phụ âm đó <br> cần được nhân đôi trước khi thêm đuôi **-er** hoặc **-est**.
+- Nếu tính từ kết thúc bằng đuôi **-e**, bạn chi cần thêm **-r** hoặc **-st**. 
+Nếu tính từ kết thúc bằng đuôi **-y**, bạn cần đổi **-y** thành **-i** rồi mới thêm đuôi **-er** hoặc **-est**.
+
+|    Tính từ    |    Dạng so sánh hơn    |    Dạng so sánh nhất
+| -             | -                      | -
+|    cheap	    |    chea**per**	       |    the cheap**est**
+|    thin	      |    thin**ner**	       |    the thin**nest**
+|    wid**e**	  |    wid**er**	         |    the wid**est**
+|    dr**y**	  |    dri**er**	         |    the dri**est**
+
+Bạn cũng có thể thêm từ more/most đằng trước các tính từ để tạo dạng so sánh hơn và so sánh nhất thay vì phải <br> thêm đuôi -er/-est. Nhưng chỉ khi bạn muốn nhấn mạnh sự so sánh, hay có một tính từ khác nhiều hơn một âm tiết.
+
+E.g:
+
+- The icing was supposed to be pink and white, but it looked **more** red than pink. (Lớp đóng băng được cho <br> là có màu hồng và trắng, nhưng nó trông đỏ hơn hồng.)
+- That sofa might look nice, but this one is **more** soft and comfortable. (Chiếc ghế sofa đó có thể trông <br> đẹp, nhưng chiếc ghế này mềm mại và thoải mái hơn.)
+
+Các **tính từ có hai âm tiết** và kết thúc bằng đuôi **-y**, để tạo dạng so sánh hơn và so sánh nhất, bạn cần đổi đuôi <br> **–y** thành **-i** rồi thêm **-er** hoặc **-est.**
+
+|    Tính từ    |    Dạng so sánh hơn    |    Dạng so sánh nhất
+| -             | -                      | -
+|    tid**y**	  |    tidi**er**	         |    the tid**iest**
+|    prett**y**	|    prett**ier**	       |    the prett**iest**
+|    luck**y**	|    luck**ier**    	   |    the luck**iest**
+
+Các tính từ có hai âm tiết và kết thúc bằng đuôi **-ed, -ing, -full, và -less** luôn luôn tạo dạng so sánh hơn <br> và so sánh nhất bằng cách thêm từ **more / most.**
+
+|    Tính từ    |    Dạng so sánh hơn    |    Dạng so sánh nhất
+| -             | -                      | -
+|    use**less**|    more useless	       |    the most useless
+|    care**ful**|	   more careful	       |    the most careful
+|    bor**ing** |	   more boring	       |    the most boring
+|    worri**ed**|	   more worried	       |    the most worried
+
+Hầu hết các tính từ có hai âm tiết hình thành dạng so sánh hơn và so sánh nhất bằng cách thêm từ **more / most** <br> vào đằng trước tính từ, ngoại từ các từ kết thúc bằng đuôi **-y** như đã nói ở trên. Tuy nhiên, vẫn có một <br> vài trường hợp có thể dùng cả hai cách: thêm đuôi **-er / -est** hoặc thêm từ **more / most**. Ví dụ như ba từ sau:
+
+|    Tính từ    |    Dạng so sánh hơn    |    Dạng so sánh nhất
+| -             | -                      | -
+| quiet	        | quieter / more quiet	 | the quietest / most quiet
+| simple	      | simpler / more simple	 | the simplest / most simple
+| narrow	      | narrower / more narrow | the narrowest / most narrow
+
+Đối với các tính từ có ba âm tiết hoặc hơn, cần thêm từ **more / most** vào đằng trước tính từ để hình thành <br> dạng so sánh hơn và so sánh nhất.
+
+|    Tính từ    |    Dạng so sánh hơn    |    Dạng so sánh nhất
+| -             | -                      | -
+| ridiculous	  | more ridiculous	       | the most ridiculous
+| exciting	    | more exciting	         | the most exciting
+| difficult	    | more difficult	       | the most difficult
+| dangerous	    | more dangerous	       | the most dangerous
+
+Chỉ có một ngoại lệ duy nhất, đó là đối với các tính từ ba âm tiết được tạo thành nhờ thêm tiền tố **-un** vào <br> đằng trước một tính từ kết thúc bằng hậu tố **-y**. Những từ như vậy, bạn thêm từ **more / most** hay hậu tốt <br> **-er / -est** để tạo dạng so sánh hơn và so sánh nhất đều được.
+
+|    Tính từ        |    Dạng so sánh hơn            |    Dạng so sánh nhất
+| -                 | -                              | -
+| unfriendly	      | unfriendlier / more unfriendly | the unfriendliest / most unfriendly
+| unhappy	          | unhappier / more unhappy	     | the unhappiest / most unhappy
+
+Có một vài tính từ có dạng so sánh hơn và so sánh nhất **bất quy tắc.**
+
+|    Tính từ        |    Dạng so sánh hơn            |    Dạng so sánh nhất
+| -                 | -                              | -
+| good / well	      | better	                       | the best
+| bad / badly	      | worse	                         | the worst
+| many / much	      | more	                         | the most
+| little	          | less	                         | the least
+| far	              | further / farther	             | the furthest / the farthes
+| near	            | nearer	                       | the nearest / the next
+| late	            | later	                         | the latest / the last
+| old	              | older / elder	                 | the oldest / the eldest
+
+Đối với các tính từ được hình thành nhờ sự kết hợp giữa các tính từ, bạn cần thêm từ **more / most** để hình <br> thành dạng so sánh hơn và so sánh nhất.
+
+E.g: Going skiing was the **most** nerve-wracking experience I have ever had.
+
+Nhưng nếu như từ đầu tiên của tính từ đó là một tính từ bất quy tắc, hoặc có dạng so sánh hơn và so sánh nhất <br> bằng cách thêm đuôi **-er / -est**. Bạn chỉ cần đổi tính từ đầu tiên đó sang dạng so sánh hơn và so sánh <br> nhất mà không cần thêm từ **more / most.**
+
+|    Tính từ        |    Dạng so sánh hơn            |    Dạng so sánh nhất
+| -                 | -                              | -
+| low-paid	        | lower-paid	                   | the lowest-paid
+| long-lasting	    | longer-lasting	               | the longest-lasting
+| good-looking	    | better-looking	               | the best-looking
+
+Một số lưu ý khác:
+
+- **So sánh hơn** có thể được nhấn mạnh bằng cách thêm **much / far / a lot / lots / a good deal / a great <br> deal** (nhiều) hoặc giảm nhẹ bằng cách cộng thêm **a bit / a little / slightly** (một chút) vào trước <br> hình thức so sánh. Ví dụ: He is much handsome than me.
+- **So sánh nhất** có thể được nhấn mạnh bằng cách thêm **almost / much / quite / by far / far** vào trước <br> hình thức so sánh. Ví dụ: She is by far the best.
+- **Most** khi được dùng với nghĩa **very** thì không có **the** đứng trước và không có ngụ ý so sánh. Ví dụ: He is most generous.
+- Những tính từ sau đây thường **không có dạng so sánh** vì thường mang nghĩa tuyệt đối.
+
+|    Z                  |    Z                           |    Z
+| -                     | -                              | -
+| perfect (hoàn hảo)	  | unique (duy nhất)	             | extreme (cực kỳ)
+| supreme (tối cao)	    | top (cao nhất)	               | absolute (tuyệt đối)
+| prime (căn bản)	      | primary (chính)	               | matchless (không đối thủ)
+| full (no)	            | empty (trống rỗng)	           | daily (hàng ngày)
+
+
+
+## <a id="g5"></a> 7.5 Bài luyện tập 
+
+Bài 1: Điền dạng đúng của từ vào chỗ trống
+1. Mom’s dress is … than mine. (expensive)
+
+2. She has … garden in our neighborhood. (beautiful)
+
+3. He is the … football player of Australia. (good)
+
+4. This luggage is … than mine. (heavy)
+
+5. He runs … than his sister. (quick)
+
+6. Nina is … than Chris but Nandee is the … (short/short)
+
+7. Luke has done … works than Roy but Ivan has done the … (many/many)
+
+8. Japan is as … as China. (beautiful)
+
+9. My sister is 5 years … than me. (young)
+
+10. This was the … song I have ever listened to . (bad)
+
+11. I speak English … now than two years ago. (fluent)
+
+12. Could you say…? (clear)
+
+13. I can eat … than John. (fast)
+
+14. Our team did … of all. (bad)
+
+15. He studied … than ever before. (hard)
+
+Đáp án: 1 – more expensive; 2 – beautiful; 3 – best; 4 – heavier; 5 – quicker; 6 – shorter/shortest; 7 – more/<br> most; 8 – beautiful; 9 – younger; 10 – worst; 11 – more fluently; 12 – more clearly; 13 – faster; 14 – <br> worst; 15 – harder.
+
+Bài 2: Viết lại câu mà không làm thay đổi ý nghĩa của câu
+1. I’ve never met any more handsome person than Tom.
+
+⇒ Tom is …………………………
+
+2. In my opinion, there is nobody as kind-hearted as my mother.
+
+⇒ In my opinion, my mother is ……………………
+
+3. There is no more intelligent student in this school than Anna.
+
+⇒  Anna is ……………………………..
+
+4. This is the most delicious hamburger I’ve ever eaten.
+
+⇒ I’ve …………………………..
+
+5. Have you got any boxes smaller than that one?
+
+⇒ Is this …………………………………?
+
+Đáp án:
+
+1. Tom is the most handsome person I’ve ever met. (Tom là người đẹp trai nhất mà tôi từng gặp.)
+
+2. In my opinion, my mother is more kind-hearted than anyone. (Theo tôi, mẹ tôi là người nhân hậu hơn bất kì ai.)
+
+3. Anna is the most intelligent student in this school. (Anna là học sinh thông minh nhất trường này.)
+
+4. I’ve never eaten a more delicious hamburger than this one. (Tôi chưa bao giờ ăn cái bánh hamburger nào ngon hơn cái này.)
+
+5. Is this the biggest box you’ve got? (Đây có phải là hộp lớn nhất bạn có không?)
+
+Bài 3: Chọn đáp án đúng
+
+1. I think Seoul is more beautiful/beautifuler than Busan.
+
+2. Is your pie more big/bigger than mine?
+
+3. My mom’s tall/taller than your mom!
+
+4. Lions are more dangerous than/as kangaroos.
+
+5. Math is badder/worse than Literature.
+
+6. Bicycles are much more safer/much safer than motorbikes.
+
+7. Australia is far/further hotter than Ireland.
+
+8. It is strange but often a coke is more expensive/ expensiver than a beer.
+
+Đáp án: 1 – more beautiful; 2 – bigger; 3 – taller; 4 – than; 5 – worse; 6 – much safer; 7 – far; 8 – more <br> expensive
+
+Bài 4: Sửa lỗi sai trong các câu sau đây
+
+1. This is the more wonderful movie she has ever seen.
+
+2. No mountain in the world is the highest than Everest.
+
+3. Sally is the thinner girl in the class.
+
+4. The kitchen is smallest than the living room.
+
+5. One of the greater football players in the world is Critsiano Ronaldo.
+
+Đáp án:
+
+1. More ⇒ most
+
+2. The highest ⇒ higher
+
+3. Thinner ⇒ thinnest
+
+4. Smallest ⇒ smaller
+
+5. Greater ⇒ greatest
+
+# <a id="h"></a> 8. Cụm động từ (Phrasal verb)
+
+Cụm động từ (Phrasal Verb) là sự kết hợp của một động từ với trạng từ (adverb) hoặc giới từ (preposition) để <br> tạo thành một cum động từ với nghĩa đặc biệt và khó đoán.
+
+Phần lớn các cụm động từ (Phrasal Verb) tường được dùng trong đàm thoại, thay cho những từ cùng nghĩa nhưng <br> nghe có vẻ trịnh trọng hơn. Chúng ta cũng có thể dùng cụm động từ trong lối viết thân mật dành cho bạn bè và người thân.
+
+Để sử dụng cụm động từ cho đúng ngữ pháp tiếng Anh, chúng ta cần biết những điều sau:
+
+- Cụm động từ có thể là ngoại động từ (transitive) hoặc nội động từ (intransitive) hoặc đôi lúc chúng có thể <br> được sử dụng theo hai cách.
+- Một số cụm động từ có tân ngữ có thể tách rời động từ và trạng từ: nếu tân ngữ là danh từ thì ta có thể đặt <br> tân ngữ ở trước hoặc sau trạng từ.
+- Các cụm động từ có ba (verb + adverb + preposition) thành phần thường có nghĩa đặc biệt không thể tách rời.
+
+Một số Phrasal verb thông dụng:
+
+- **Account for /əˈkaʊnt/:** Giải thích về một lí do hoặc một nguyên nhân cho sự tồn tại của một vật nào đó, hoặc <br> cho điều gì đó vừa xảy ra.
+- **Break down /breɪkdaʊn/:** (Máy móc,…) bị hỏng, (đường xá,…) phá vỡ
+- **Break in/into /breɪk ˈɪn.tuː/:** Đột nhập vào, xong vào một cách không được phép
+- **Break up /breɪk ʌp/:** Chia tay, kết thúc (khóa học, năm học, cuộc họp, bữa tiệc,…)
+- **Bring sth up /brɪŋ ʌp/:** Đề cập chuyện gì đó
+- **Bring sb up /brɪŋ ʌp/:** Nuôi nấng (con cái)
+- **Call for /kɔːl fɔːr/:** Ghé qua (để đón ai đó hoặc lấy vật gì đó)
+- **Carry out /ˈkær.i aʊt/:** Tiến hành, thực hiện (kế hoạch)
+- **Catch up/ Catch up with sb / /kætʃ ʌp/ :** Theo kịp hoặc bắt kịp ai đó
+- **Clean sth up /kliːn ʌp/ :** Lau chùi, dọn dẹp, (thời tiết) sáng sủa hơn
+- **Come across /kʌm əˈkrɒs/:** Tình cờ gặp (người nào đó), tình cờ thấy (vật gì đó)
+- **Come off /kʌm ɒf/:** Thành công 
+- **Come up against s.th /kʌm ʌp əˈɡenst/:** Đối mặt, đương đầu với cái gì đó
+- **Count on/ upon sb /kaʊnt ɒn/əˈpɒn/ :** Tin cậy hoặc dựa dẫm vào người nào đó
+- **Cut down/ back (on) sth /kʌt daʊn/bæk/:** Cắt giảm cái gì đó
+- **Cut off /kʌt ɒf/:**Ngừng cung cấp (điện, nước, chất đốt,…); cắt đứt (mối quan hệ nào đó)
+- **Do away with sth /duː əˈweɪ wɪð/:** bỏ cái gì đó đi không sử dụng cái gì đó
+- **Do without sth /duː wɪˈðaʊt/ :** chấp nhận không có cái gì đó
+- **Dress up /dres ʌp/:** ăn mặc đẹp
+- **Drop by /drɒp baɪ/:** ghé qua
+- **Drop sb off /drɒp ɒf/:** thả ai xuống xe
+- **Fill in /fɪl ɪn/:** điền thông tin vào
+- **Fix up /fɪks ʌp/:** Sắp xếp, thu xếp
+- **Get by /ɡet baɪ/:** xoay xở, đối phó
+- **Get down /ɡet daʊn/:** làm cho thất vọng, chán nản
+- **Get on /ɡet ɒn/:** Lên (xe buýt, máy bay,…)
+- **Get up /ɡet ʌp/:** thức dậy
+- **Give up /ɡɪv ʌp/:** từ bỏ
+- **Go away /ɡəʊ əˈweɪ/:** biến mất, tan đi
+- **Go off /ɡəʊ ɒf/:** (chuông) reo, (súng) nổ, (thức ăn) ươn/thối
+- **Go on /ɡəʊ ɒn/:** tiếp tục
+- **Go out /ɡəʊ aʊt/:** (ánh sáng, lửa, đèn) tắt
+- **Go over /ɡəʊ ˈəʊ.vər/:** xem xét, kiểm tra
+- **Grow up /ɡrəʊ ʌp/:** trưởng thành, lớn lên
+- **Hold on /həʊld ɒn/:** chờ, đợi
+- **Keep on /kiːp ɒn/:** tiếp tục
+- **Keep up (with) /kiːp ʌp wɪð/:** bắt kịp, theo kịp
+- **Leave out /liːv aʊt/:** bỏ qua, bỏ quên, bỏ sót
+- **Look after /lʊk ˈɑːf.tər/:** chăm sóc, trông nom
+- **Look down on /lʊk  daʊn ɒn/:** coi thường
+- **Look for /lʊk fɔːr/:** tìm kiếm
+- **Look forward to /lʊk ˈfɔː.wəd tuː/:**  mong đợi
+- **Look into /lʊk ˈɪn.tuː/:** điều tra
+- **Look out /lʊk aʊt/:** coi chừng
+- **Look up /lʊk ʌp/:** tìm, tra cứu
+- **Look up to /lʊk ʌp tuː/:** coi trọng, kính trọng, ngưỡng mộ
+
+#
+
