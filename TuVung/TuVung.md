@@ -1,6 +1,8 @@
 # **Từ Vựng**
 
+#### https://wiseenglish.edu.vn/600-tu-vung-toeic/#ftoc-heading-2
 ## [600 TỪ VỰNG TOEIC ](#a)
+### [Link](https://wiseenglish.edu.vn/600-tu-vung-toeic/)
 ### [1. Topic 1: Contracts (Hợp đồng, giấy ký kết, giao kèo)](#a1)
 ### [2. Topic 2: Marketing (Thị trường, nơi tiêu thụ, khách hàng)](#a2)
 ### [3. Topic 3: Warranties (Bảo hành, sự bảo đảm)](#a3)
@@ -140,7 +142,39 @@
 | Take part in (v)	      | N/A	               | Tham dự, tham gia
 
 ### <a id= "a6"></a> 6. Topic 6: Computer (Máy tính)
+
+|    Từ vựng	            |    Phiên âm        |    Ngữ nghĩa
+| -                       | -                  | -
+| Access (n,v)	          | /ˈækses/	         | (n) Lối vào, quyền/ sự truy cập(v) Truy cập
+| Allocate (v)	          | /ˈæləkeɪt/	       | Cấp cho, phân phát, chỉ định
+| Compatible (adj)	      | /kəm’pætəbl/	     | Tương thích, tương hợp, hợp nhau
+| Delete (v)	            | /di’li:t/	         | Xóa đi
+| Display (v,n)	          | /dis’plei/	       | (v) Hiển thị, biểu lộ, phô bày(n) Sự trưng bày
+| Duplicate (v)	          | /’dju:plikit/	     | Sao lại, thàm thành 2 bản
+| Failure (n)	            | /’feiljə/          | Hỏng, thiếu
+| Figure out (v)	        | /ˈfɪɡə/ /aʊt/	     | Tìm hiểu, đoán ra
+| Ignore (v)	            | /ig’nɔ:/	         | Bỏ qua, phớt lờ
+| search (n, v)	          | /sə:tʃ/	           | (n) Tìm kiếm, tìm hiểu(v) Tìm
+| Shut down (v)	          | /ʃʌt/ /daʊn/	     | Đóng lại, ngừng lại, tắt máy
+| Warning (n)	            | /’wɔ:niɳ/	         | (Sự/ Lời) cảnh báo, báo trước
+
 ### <a id= "a7"></a> 7. Topic 7: Office Technology (Vấn đề kĩ thuật trong công ty)
+
+|    Từ vựng	            |    Phiên âm        |    Ngữ nghĩa
+| -                       | -                  | -
+| Affordable (adj)	      | /əˈfɔːd/	         | Có đủ khả năng, có đủ điều kiện (sức lực/ thời gian/ tiền bạc)
+| As needed (adv)         |	N/A	               | Khi cần, lúc cần, cần thiết
+| Be in charge of	        | N/A	               | Chịu trách nhiệm về
+| Capacity (n)	          | /kə’pæsiti/	       | Sức chứa, dung tích
+| Durable (adj)	          | /ˈdjʊərəbl/	       | Bền, lâu
+| Initiative (n)	        | /i’niʃiətiv/	     | Bắt đầu, khỏi đầu
+| Physically (adv)	      | /ˈfɪzɪkli /	       | Về thân thể/ cơ thể; theo quy luật tự nhiên
+| Provider (n)	          | /provider/	       | Người cung cấp, nhà cung cấp
+| Recur (v)	              | /ri’kə:/	         | Lặp lại, diễn lại, tái diễn, tái phát; lặp đi lặp lại
+| Reduction (n)	          | /ri’dʌkʃn/	       | (Sự) giảm, hạ, thu nhỏ
+| Stay on top of (v)	    | N/A	               | Nắm bắt tình hình (đang xảy ra)
+| Stock (v, n)	          | /stɒk/	           | Kho, hàng dự trữ
+
 ### <a id= "a8"></a> 8. Topic 8: Office Procedures (Các quy trình trong công sở)
 ### <a id= "a9"></a> 9. Topic 9: Electricics (Điện tử)
 ### <a id= "a10"></a> 10. Topic 10: Correspondence (Thư tín thương mại)
