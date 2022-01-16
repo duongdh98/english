@@ -80,7 +80,7 @@
 | Attract (v)	        | /ə’trækt/	         | Hấp dẫn, lôi cuốn, thu hút
 | Compare (v)	        | /kəm’peə/	         | So sánh, đối chiếu
 | Competition (v)	    | /,kɔmpi’tiʃn/	     | (sự/ cuộc) cạnh tranh, thi đấu
-| Cosume (v)	        | /kən’sju:m/	       | Tiêu thụ, tiêu dùng
+| Consume (v)	        | /kən’sju:m/	       | Tiêu thụ, tiêu dùng
 | Convince (v)	      | /kən’vins/	       | Thuyết phục
 | Currently (adv)	    | /ˈkʌrəntli/	       | Hiện thời, hiện nay, lúc này
 | Fad (n)	            | /fæd/	             | Sự thích thú tạm thời; dở hơi, gàn dở
