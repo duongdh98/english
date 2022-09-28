@@ -72,6 +72,7 @@
 ### [6.3.3 Modal verbs – Động từ khiếm khuyết should/ought to: nên.](#f33)
 ### [6.3.4 Modal verbs – Động từ khiếm khuyết must/have to: phải.](#f34)
 ### [6.3.5 Modal verbs – Động từ khiếm khuyết will/be going to: sẽ.](#f35)
+
 ## [6.4 BÀI TẬP THỰC HÀNH](#f4)
 #
 
@@ -84,6 +85,7 @@
 #
 
 # [8. Cụm động từ (Phrasal verb)](#h)
+# [9. Tiền tố và hậu tố](#j)
 #
 
 # <a id="a"></a> 1. CÂU TƯỜNG THUẬT (REPORTED SPEECH
@@ -3478,6 +3480,66 @@ Một số Phrasal verb thông dụng:
 - **Look out /lʊk aʊt/:** coi chừng
 - **Look up /lʊk ʌp/:** tìm, tra cứu
 - **Look up to /lʊk ʌp tuː/:** coi trọng, kính trọng, ngưỡng mộ
-
 #
 
+# <a id="j"></a> 9. Tiền tố và hậu tố
+
+| Tiền  tố 	        | Ý nghĩa, cách sử dụng	                    | Ví dụ cụ thể
+| ----------------- | ----------------------------------------- | ------------------------------
+| un-	              | Dùng để phú định tính từ gốc 	            | > unhappy – không vui vẻ
+| dis-	            | chỉ sự đối nghịch trái ngược 	            | > disagree – bất đồng
+| non-	            | phủ định từ kết hợp	                      | > non-profit (phi lợi nhuận), 
+|                   |                                           | > non-smoker( người không hút thuốc) 
+| il-, im-, in-, ir-|	Dùng để phú định tính từ gốc              | > illegal (phạm pháp)
+|                   | IL- chỉ đi với tính từ bắt đầu bằng L,    | > impossible (bất khả thi)
+|                   | IR- chỉ đi với tính từ bắt đầu bằng R,    | > incorrect (không đúng)
+|                   | IM-thường đi với tính từ bắt đầu bằng M   | > irregular( không theo luật)
+|                   | hay P, còn đối với IN- thì là A hoặc C,   |
+|                   | D hoặc S.                                 |
+| Co-	              | đồng, cùng	                              | > co-author (đồng tác giả), co-founder (đồng sáng lập viên),
+| Mis-	            | sai, lầm	                                | > misunderstand ( hiểu lầm), misinformation ( thông tin sai) 
+| Mid-	            | ở giữa 	                                  | > midterm ( giữa kỳ học)
+| Self-	            |  tự, cho bản thân	                        | > self-appointed (tự bổ nhiệm), self-control (tự chủ)
+| Re-	              |  dùng phổ biến với động từ tạo            | > rewrite (viết lại) 
+|                   |  động từ mới có ý “lại, một lần nữa”	    | > restart (khởi động lại)
+| Tri-	            | Ba ( số lượng ) 	                        | > triangle (hình tam giác)> tricycle (xe đạp ba bánh)
+    
+    > Hau to
+| Hậu tố 	                | Ý nghĩa,                        | cách dùng 	Ví dụ
+| ----------------------- | ------------------------------- | -------------------------
+|   >> HẬU TỐ DANH TỪ     |                                 |
+| -acy	                  | Trạng thái/ chất lượng	        | > democracy (dân chủ), Lunnacy (tàn bạo) 
+| -ance; -ence	          | Trạng thái/ chất lượng	        | > nuisance (phiền toái), ambience (không khí)
+| -ity, -ty	              | Chất lượng của…	                | > extremity (sự cực đoan), enormity (sự to lớn)
+| -al	                    | Hành động hay quá trình của…	  | > denial (phủ nhận), remedial (khắc phục)
+| -dom	                  | Địa điểm/ tình trạng	          | > stardom (danh vọng), Freedom (sự tự do)
+| -ment	                  | Tình trạng	                    | > enchantment (sự mê hoặc), Argument (sự tranh luận)
+| -ness	                  | Trạng thái	                    | > highness (cao), heaviness (sự nặng nề)
+| -sion; -tion	          | Trạng thái	                    | > promotion (khuyến mại), Position (vị trí)
+| -er; -or, -ist	        | Chỉ người/                      | > reader (người đọc)
+|                         | đồ vật có một chuyên môn/       | > creator (người tạo dựng) 
+|                         | chức năng chuyên biệt nào đó	  | > scientist (nhà khoa học)
+| -ism                	  | Học thuyết/ niềm tin	          | > scepticism (chủ nghĩa hoài nghi), Judaism (Do Thái giáo)
+| -ship	                  | Vị trí nắm giữ	                | > internship (thực tập), Friendship (tình bạn)
+|    >> HẬU TỐ ĐỘNG TỪ    |                                 |
+| -ate	                  | Trở thành	                      | > collaborate (kết hợp), Create (tạo ra)
+| -en	                    | Trở thành	                      | > strengthen (làm mạnh), loosen (làm lỏng)
+| -ify; -fy	              | Trở thành	                      | > simplify (làm đơn giản)
+| -ise; -ize	            | Trở thành	                      | > publicise (công khai), synthesise (tổng hợp)
+|   >> HẬU TỐ TÍNH TỪ     |                                 | 
+| -able; -ible	          | Có khả năng	                    | > edible (ăn được), understandable (có thể hiểu được)
+| -al	                    | Có dạng thức/ tính chất của	    | > thermal (nhiệt), herbal (thảo dược)
+| -esque	                | Theo cách thức/ giống với…	    | > picturesque (đẹp, thu hút), burlesque (nhại lại)
+| -ive	                  | Có bản chất của	                | > Informative ( giàu thông tin)
+|  attentive (chú ý)      |                                 |
+| -ic; -ical	            | Có dạng thức/ tính chất của	    | > Historic (mang tính lịch sử), methodical (có phương pháp)
+| -ious; -ous	            | Liên quan đến tính chất/        | > religious (thuộc tín ngưỡng)
+|                         | tính cách	                      | > Jealous (ghen tị)
+| -ish	                  | Có chất lượng của	              | > Childish (tính trẻ con), sheepish (bối rối)
+| -ive	                  | có sự tự nhiên của	            | > informative (có thông tin)
+|  attentive (chú ý)      |                                 |
+| -less	                  |  ít	                            | > Careless (bất cẩn), hopeless (vô vọng)
+| >> HẬU TỐ TRẠNG TỪ      |                                 | 
+| -ly	                    |  Liên quan tới chất lượng	      | > Carefully (cẩn thận), slowly (chậm rãi)
+| -ward; -wards	          |  Phương hướng	                  | > Towards (về hướng), afterwards (sau đó)
+| -wise	                  |  Có liên quan tới	              | > Likewise (tương tự), clockwise (theo chiều kim đồng hồ)
