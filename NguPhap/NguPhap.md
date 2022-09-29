@@ -86,6 +86,9 @@
 
 # [8. Cụm động từ (Phrasal verb)](#h)
 # [9. Tiền tố và hậu tố](#j)
+# [10. Tong hop](#k)
+## [10.1 Look](#k1)
+
 #
 
 # <a id="a"></a> 1. CÂU TƯỜNG THUẬT (REPORTED SPEECH
@@ -3543,3 +3546,113 @@ Một số Phrasal verb thông dụng:
 | -ly	                    |  Liên quan tới chất lượng	      | > Carefully (cẩn thận), slowly (chậm rãi)
 | -ward; -wards	          |  Phương hướng	                  | > Towards (về hướng), afterwards (sau đó)
 | -wise	                  |  Có liên quan tới	              | > Likewise (tương tự), clockwise (theo chiều kim đồng hồ)
+
+# <a id="k"></a> 10. Tong hop
+
+## <a id="k1"></a> 10.1 Look
+
+- CẤU TRÚC CỦA “ LOOK”
+Look là một động từ nên cấu trúc look chúng ta thường thấy là:
+```sh
+  Look + tính từ
+```
+
+Cấu trúc look này chỉ áp dụng khi look là động từ nối. Khi đó look đồng nghĩa với seem và appear mang nghĩa là trông, có vẻ.
+```sh
+  Look + trạng từ
+```
+
+Trong trường hợp look không phải là 1 động từ nối mà chỉ là ngoại động từ bình thường có tân ngữ kèm theo thì theo sau look là trạng từ.
+```sh
+  Look + as if / as though / like + clause
+  Look + like + Noun
+```
+Nếu có một danh từ sau “look”, ta không thể sử dụng "as if" hay "as though" mà phải dùng like để miêu tả sự giống nhau.
+
+- CÁCH DÙNG CỦA LOOK
+
+Dùng để đưa ra nhận xét về diện mạo, trạng thái hay cảm xúc của một ai đó.
+```sh
+  Ví dụ:
+  She looks not well.
+  Cô ấy trông không được khỏe.
+  Anna looks great in white dress.
+  Anna trông thật tuyệt vời trong chiếc váy trắng.
+```
+
+Dùng để miêu tả một người có hành động như thế nào.
+```sh
+  Ví dụ:
+  Bill looked angrily at the intruder.
+  Bill nhìn kẻ đột nhập một cách giận dữ.
+```
+
+Dùng để diễn tả một điều gì đó.
+```sh
+  Ví dụ:
+  It looks like we’re going home without suntan.
+  Có vẻ như là chúng ta sẽ về nhà mà không bị rám nắng.
+```
+
+Dùng để miêu tả sự giống nhau.
+```sh
+  Ví dụ:
+  Rose looks like a famous singer.
+  Rose trông giống một ca sĩ nổi tiếng.
+```
+- MỘT SỐ VÍ DỤ ANH – VIỆT VỚI “ LOOK”
+```sh
+  Ví dụ:
+  He's a very good-looking man!
+  Anh ấy trông có vẻ ngoài đẹp trai!
+  Jennie looks like her mother
+  Jennie trông có vẻ giống mẹ của cô ấy
+  "Look at the beach! It's beautiful, isn't it!"
+  Nhìn biển kìa. Nó rất đẹp có phải không.
+```
+![Look](/NguPhap/Picture/look.png "look")
+
+```sh
+  He always felt that I look down on him because he hadn’t been to university.
+  Anh ta luôn cảm thấy rằng tôi coi thường anh ấy vì anh ấy không học đại học.
+  
+  Let’s look after our the world.
+  Hãy cùng nhau chăm sóc trái đất của chúng ta.
+  
+  I am looking for information about my new school.
+  Tôi đang tìm kiếm thông tin về trường học mới.
+
+  I don’t have that information to hand but I will look into it and I will get back to you
+  Tôi không có thông tin đó trong tay nhưng tôi sẽ điều kiểm tra và đưa cho bạn sau.
+```
+5. CÁC CỤM TỪ THÔNG DỤNG ĐƯỢC SỬ DỤNG VỚI “ LOOK”
+ 
+Các cụm từ look thông dụng nhất
+```sh
+  Look after: trông nom, chăm sóc.
+  Look about: đợi chờ.
+  Look for: tìm kiếm
+  Look about for: tìm kiếm
+  Look forward to: mong đợi một cách vui mừng
+  Look at: nhìn, ngắm, xem.
+  Look away: quay đi.
+  Look back: nhìn lại.
+  Look back upon (to): nhìn lại (cái gì đã qua đi)
+  Look down: nhìn xuống hay xem thường
+  Look into: điều tra kĩ càng
+  Look on: đứng xem, đứng nhìn, nhìn kỹ, ngắm.
+  Look out: để ý, chú ý cẩn thận hay coi chừng.
+  Look over: xem xét và kiểm tra.
+  Look round: nhìn quanh hay suy nghĩ, cân nhắc.
+  Look through: nhìn qua
+  Look to: lưu ý, cẩn thận về.
+  Look towards: nâng cốc, chúc sức khoẻ (ai)
+  Look up: nhìn lên, ngước lên; tìm kiếm, tra cứu.
+  Look up to: tôn kính, kính trọng
+  Look upon: xem như, coi như
+  Look ahead (to something): tiên liệu, tính toán trước chuyện gì hay những chuyện có thể xảy ra.
+  Look to somebody for something | Look to somebody to do something (formal): hi vọng ai cung cấp cho mình cái gì; hi vọng ai làm điều gì đó.
+  Look through (something): nhìn qua hay đọc nhanh qua cái gì.
+  Look back (on something): nhìn lại điều đã qua hay suy ngẫm về chuyện gì trong quá khứ (= relect on).
+  Look in (on somebody): ghé thăm chỗ nào đó, đặc biệt là ghé thăm ai tại nhà khi họ đang ốm hay cần sự giúp đỡ.
+```
